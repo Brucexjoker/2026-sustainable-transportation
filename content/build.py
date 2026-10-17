@@ -82,6 +82,35 @@ for (an, qn, typ, text, opts, ans, expl) in O:
         base.update(format="tf" if typ == "tf" else "mcq", options=opts, answer=[ans])
         questions.append(base)
 
+
+# ---- Official 2026 assignments: correct options were highlighted yellow in the PDFs supplied by the user
+import difflib
+from official2026 import P as P26
+def _norm(t): return "".join(ch for ch in t.lower() if ch.isalnum())
+OSRC26 = dict(type="assignment", label="Official NPTEL assignment (2026)", year=2026, url="https://nptel.ac.in/courses/105107210",
+  document="NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+  verification="transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant")
+off21 = [q for q in questions if q["source"]["type"] == "assignment"]
+merged = added = 0
+for (w, n, text, opts, ans, basis, expl) in P26:
+    idx = "abcde".index(ans)
+    corr = _norm(opts[idx])
+    hit = None
+    for q in off21:
+        if difflib.SequenceMatcher(None, _norm(q["text"]), _norm(text)).ratio() >= 0.98 and set(map(_norm, q["options"])) == set(map(_norm, opts)):
+            hit = q; break
+    if hit:
+        if _norm(hit["options"][hit["answer"][0]]) != corr:
+            print("WARNING: 2021 and 2026 keys differ for", hit["id"], "/ W%d Q%d" % (w, n)); hit = None
+        else:
+            hit["source"] = dict(hit["source"], label="Official NPTEL assignment (2021 & 2026)", also_year=2026)
+            hit["also_2026"] = "W%d Q%d" % (w, n); merged += 1; continue
+    oid = "O26-W%02d-%02d" % (w, n)
+    questions.append(dict(id=oid, week=w, topic="Official Assignment Week %d (2026)" % w, difficulty="official", text=text, explanation=expl,
+        source=OSRC26, related=["Assignment %d (2026)" % w], assignment=w, format="tf" if opts == ["True", "False"] else "mcq", options=opts, answer=[idx]))
+    added += 1
+print("2026 official: merged into 2021 duplicates =", merged, ", added new =", added)
+
 # Mocks (deterministic, round-robin over weeks)
 rnd = random.Random(105107210)
 def pick(pool, n):

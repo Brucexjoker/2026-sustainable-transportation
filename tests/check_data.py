@@ -14,7 +14,7 @@ for w in D["weeks"]:
 allq = D["questions"] + D["numericals"]
 ids = [q["id"] for q in allq]
 check(len(ids) == len(set(ids)), "duplicate IDs")
-texts = [q["text"].strip().lower() for q in allq]
+texts = [(q["text"].strip().lower(), tuple(q.get("options") or [])) for q in allq]
 check(len(texts) == len(set(texts)), "duplicate question text")
 for q in D["questions"]:
     n = len(q["options"])
@@ -29,7 +29,7 @@ for q in D["questions"]:
 for q in allq:
     st = q["source"]["type"]
     if st == "generated": check(q["source"]["year"] is None and q["source"]["url"] is None and not q["id"].startswith("O21"), q["id"] + " generated must not carry official metadata")
-    elif st == "assignment": check(q["source"]["year"] == 2021 and q["id"].startswith("O21-") and "transcribed" in q["source"]["verification"], q["id"] + " bad official metadata")
+    elif st == "assignment": check(((q["source"]["year"] == 2021 and q["id"].startswith("O21-")) or (q["source"]["year"] == 2026 and q["id"].startswith("O26-"))) and "transcribed" in q["source"]["verification"], q["id"] + " bad official metadata")
     else: fails.append(q["id"] + " unknown source type")
 # numerical recomputation (independent of the build lambdas)
 exp = {"N-W06-001": 10*math.log10(2e7), "N-W06-003": 80-20*math.log10(4), "N-W06-007": 2/(math.pi*4*30*15)*1e6 if False else None}
@@ -57,7 +57,7 @@ for w in range(1, 13):
     check(sum(1 for q in D["questions"] if q["week"] == w) >= 7, "week %d too few questions" % w)
     check(sum(1 for c in D["cards"] if c["week"] == w) >= 8, "week %d too few cards" % w)
 off=[q for q in allq if q["source"]["type"]=="assignment"]
-check(len(off)==125, "expected 125 official, got %d"%len(off))
+check(sum(1 for q in off if q["id"].startswith("O21-"))==125, "expected 125 official 2021")
 check(sum(1 for q in off if q["format"]=="num")==2, "official numerics")
 print("official", len(off))
 print("questions", len(D["questions"]), "numericals", len(D["numericals"]), "cards", len(D["cards"]))

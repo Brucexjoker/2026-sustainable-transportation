@@ -8744,11 +8744,12 @@ window.DATA = {
    "explanation": "Walking is the oldest mode of human transport.",
    "source": {
     "type": "assignment",
-    "label": "Official NPTEL assignment (Jul-Oct 2021)",
+    "label": "Official NPTEL assignment (2021 & 2026)",
     "year": 2021,
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
-    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified"
+    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_year": 2026
    },
    "related": [
     "Assignment 1"
@@ -8763,7 +8764,8 @@ window.DATA = {
    ],
    "answer": [
     2
-   ]
+   ],
+   "also_2026": "W1 Q1"
   },
   {
    "id": "O21-A01-02",
@@ -8774,11 +8776,12 @@ window.DATA = {
    "explanation": "A sustainable energy source must be non-exhaustible (renewable) and able to meet growing demand.",
    "source": {
     "type": "assignment",
-    "label": "Official NPTEL assignment (Jul-Oct 2021)",
+    "label": "Official NPTEL assignment (2021 & 2026)",
     "year": 2021,
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
-    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified"
+    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_year": 2026
    },
    "related": [
     "Assignment 1"
@@ -8793,7 +8796,8 @@ window.DATA = {
    ],
    "answer": [
     2
-   ]
+   ],
+   "also_2026": "W1 Q2"
   },
   {
    "id": "O21-A01-03",
@@ -8804,11 +8808,12 @@ window.DATA = {
    "explanation": "Penny-farthing - James Starley; Tu-144 - supersonic (breaking the sound barrier); Global Express - twin engine; Maglev - air cushion (levitation).",
    "source": {
     "type": "assignment",
-    "label": "Official NPTEL assignment (Jul-Oct 2021)",
+    "label": "Official NPTEL assignment (2021 & 2026)",
     "year": 2021,
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
-    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified"
+    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_year": 2026
    },
    "related": [
     "Assignment 1"
@@ -8823,7 +8828,8 @@ window.DATA = {
    ],
    "answer": [
     2
-   ]
+   ],
+   "also_2026": "W1 Q3"
   },
   {
    "id": "O21-A01-04",
@@ -8864,11 +8870,12 @@ window.DATA = {
    "explanation": "All three statements correctly describe sustainable development (Brundtland definition and its aims).",
    "source": {
     "type": "assignment",
-    "label": "Official NPTEL assignment (Jul-Oct 2021)",
+    "label": "Official NPTEL assignment (2021 & 2026)",
     "year": 2021,
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
-    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified"
+    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_year": 2026
    },
    "related": [
     "Assignment 1"
@@ -8883,7 +8890,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "also_2026": "W1 Q5"
   },
   {
    "id": "O21-A01-06",
@@ -8894,11 +8902,12 @@ window.DATA = {
    "explanation": "True: policy needs scenario/risk prediction to compare options.",
    "source": {
     "type": "assignment",
-    "label": "Official NPTEL assignment (Jul-Oct 2021)",
+    "label": "Official NPTEL assignment (2021 & 2026)",
     "year": 2021,
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
-    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified"
+    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_year": 2026
    },
    "related": [
     "Assignment 1"
@@ -8911,7 +8920,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "also_2026": "W1 Q6"
   },
   {
    "id": "O21-A01-07",
@@ -8922,11 +8932,12 @@ window.DATA = {
    "explanation": "PURA was proposed by Dr A.P.J. Abdul Kalam.",
    "source": {
     "type": "assignment",
-    "label": "Official NPTEL assignment (Jul-Oct 2021)",
+    "label": "Official NPTEL assignment (2021 & 2026)",
     "year": 2021,
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
-    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified"
+    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_year": 2026
    },
    "related": [
     "Assignment 1"
@@ -8941,7 +8952,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "also_2026": "W1 Q7"
   },
   {
    "id": "O21-A01-08",
@@ -8952,11 +8964,12 @@ window.DATA = {
    "explanation": "There are 17 SDGs.",
    "source": {
     "type": "assignment",
-    "label": "Official NPTEL assignment (Jul-Oct 2021)",
+    "label": "Official NPTEL assignment (2021 & 2026)",
     "year": 2021,
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
-    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified"
+    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_year": 2026
    },
    "related": [
     "Assignment 1"
@@ -8971,7 +8984,8 @@ window.DATA = {
    ],
    "answer": [
     2
-   ]
+   ],
+   "also_2026": "W1 Q8"
   },
   {
    "id": "O21-A01-09",
@@ -8982,11 +8996,12 @@ window.DATA = {
    "explanation": "Walking has zero emissions and health benefits.",
    "source": {
     "type": "assignment",
-    "label": "Official NPTEL assignment (Jul-Oct 2021)",
+    "label": "Official NPTEL assignment (2021 & 2026)",
     "year": 2021,
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
-    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified"
+    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_year": 2026
    },
    "related": [
     "Assignment 1"
@@ -9001,7 +9016,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "also_2026": "W1 Q9"
   },
   {
    "id": "O21-A01-10",
@@ -9431,11 +9447,12 @@ window.DATA = {
    "explanation": "Scoping produces the ToR.",
    "source": {
     "type": "assignment",
-    "label": "Official NPTEL assignment (Jul-Oct 2021)",
+    "label": "Official NPTEL assignment (2021 & 2026)",
     "year": 2021,
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
-    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified"
+    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_year": 2026
    },
    "related": [
     "Assignment 3"
@@ -9450,7 +9467,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "also_2026": "W3 Q6"
   },
   {
    "id": "O21-A03-05",
@@ -9491,11 +9509,12 @@ window.DATA = {
    "explanation": "True: an EMP/IMP is a required part of the EIA report.",
    "source": {
     "type": "assignment",
-    "label": "Official NPTEL assignment (Jul-Oct 2021)",
+    "label": "Official NPTEL assignment (2021 & 2026)",
     "year": 2021,
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
-    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified"
+    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_year": 2026
    },
    "related": [
     "Assignment 3"
@@ -9508,7 +9527,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "also_2026": "W3 Q8"
   },
   {
    "id": "O21-A03-07",
@@ -10029,11 +10049,12 @@ window.DATA = {
    "explanation": "The National TOD Policy was released in 2017.",
    "source": {
     "type": "assignment",
-    "label": "Official NPTEL assignment (Jul-Oct 2021)",
+    "label": "Official NPTEL assignment (2021 & 2026)",
     "year": 2021,
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
-    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified"
+    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_year": 2026
    },
    "related": [
     "Assignment 5"
@@ -10048,7 +10069,8 @@ window.DATA = {
    ],
    "answer": [
     2
-   ]
+   ],
+   "also_2026": "W5 Q4"
   },
   {
    "id": "O21-A05-05",
@@ -10239,11 +10261,12 @@ window.DATA = {
    "explanation": "Generation, distribution, modal split, assignment.",
    "source": {
     "type": "assignment",
-    "label": "Official NPTEL assignment (Jul-Oct 2021)",
+    "label": "Official NPTEL assignment (2021 & 2026)",
     "year": 2021,
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
-    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified"
+    "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_year": 2026
    },
    "related": [
     "Assignment 6"
@@ -10258,7 +10281,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "also_2026": "W6 Q8"
   },
   {
    "id": "O21-A06-02",
@@ -12278,6 +12302,3221 @@ window.DATA = {
    ],
    "answer": [
     1
+   ]
+  },
+  {
+   "id": "O26-W01-04",
+   "week": 1,
+   "topic": "Official Assignment Week 1 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is not a component of the passenger transportation system?",
+   "explanation": "An oil pipeline carries freight (oil), not passengers.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 1 (2026)"
+   ],
+   "assignment": 1,
+   "format": "mcq",
+   "options": [
+    "Airport",
+    "Oil pipe line",
+    "Walking",
+    "Push scooters"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W01-10",
+   "week": 1,
+   "topic": "Official Assignment Week 1 (2026)",
+   "difficulty": "official",
+   "text": "What can be inferred from the graph (Graph 1) of vehicle composition in India? (Graph not reproduced here.)",
+   "explanation": "The 2021 official key marked all three as true; the graph is not shown in this app.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 1 (2026)"
+   ],
+   "assignment": 1,
+   "format": "mcq",
+   "options": [
+    "Two wheelers account for the major share of road transportation",
+    "The percentage share of two wheelers were approximately equal to the composition of cars, jeeps and taxis in the 1970s",
+    "Though the composition of private vehicles have declined in comparison to the other modes, the registered vehicles have increased in the 20th century",
+    "All (a), (b) and (c) are true",
+    "Only (a) and (b) are true"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "id": "O26-W02-01",
+   "week": 2,
+   "topic": "Official Assignment Week 2 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is not a direct impact of transportation systems on the environment?",
+   "explanation": "Forest fires are not a direct impact of transport systems.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 2 (2026)"
+   ],
+   "assignment": 2,
+   "format": "mcq",
+   "options": [
+    "Habitat fragmentation",
+    "Loss of Wildlife Habitat",
+    "Corridor restrictions",
+    "Forest Fires"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "id": "O26-W02-02",
+   "week": 2,
+   "topic": "Official Assignment Week 2 (2026)",
+   "difficulty": "official",
+   "text": "'Bhungroo' is applied as a mitigation measure for ______.",
+   "explanation": "Bhungroo is a groundwater recharge/irrigation technique.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 2 (2026)"
+   ],
+   "assignment": 2,
+   "format": "mcq",
+   "options": [
+    "Protecting biodiversity",
+    "Reducing road accidents",
+    "Soil stabilization",
+    "Ground water recharge"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "id": "O26-W02-03",
+   "week": 2,
+   "topic": "Official Assignment Week 2 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is the most used fuel in transport sector worldwide in year 2020?",
+   "explanation": "Gasoline dominates global transport fuel use.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 2 (2026)"
+   ],
+   "assignment": 2,
+   "format": "mcq",
+   "options": [
+    "Hydrogen",
+    "Gasoline",
+    "Biofuel",
+    "Kerosene"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W02-04",
+   "week": 2,
+   "topic": "Official Assignment Week 2 (2026)",
+   "difficulty": "official",
+   "text": "If a city has 1000 car commuters with baseline mortality rate of 10 per 10000 people and if relative risk of mortality due to PM2.5 exposure is 1.3, what will be the number of premature deaths in the city due to transport induced PM2.5 exposure?",
+   "explanation": "Highlighted as correct in the official 2026 paper. The calculation uses the attributable fraction (RR-1)/RR = 0.3/1.3 = 0.2308; the scaling that gives 2307.69 is not explained in the paper, so memorise the keyed option.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 2 (2026)"
+   ],
+   "assignment": 2,
+   "format": "mcq",
+   "options": [
+    "2109.55",
+    "2307.69",
+    "230.76",
+    "210.95"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W02-05",
+   "week": 2,
+   "topic": "Official Assignment Week 2 (2026)",
+   "difficulty": "official",
+   "text": "Walking and cycling as daily activities directly do not ______.",
+   "explanation": "They help health, noise and air quality directly, not biodiversity.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 2 (2026)"
+   ],
+   "assignment": 2,
+   "format": "mcq",
+   "options": [
+    "Benefit Health",
+    "Decrease Noise Pollution",
+    "Decrease Air Pollution",
+    "Increase Biodiversity"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "id": "O26-W02-06",
+   "week": 2,
+   "topic": "Official Assignment Week 2 (2026)",
+   "difficulty": "official",
+   "text": "Statement 1. Psychological and physical aspects of wellbeing are difficult to disentangle. Statement 2. The physical damage during accidents can induce pain or distress and can lead to psychological disturbances.",
+   "explanation": "Both statements are accepted as true.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 2 (2026)"
+   ],
+   "assignment": 2,
+   "format": "mcq",
+   "options": [
+    "Both statements 1 and 2 are true",
+    "Only statement 1 is true",
+    "Only statement 2 is true",
+    "Both statements 1 and 2 are false"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W02-07",
+   "week": 2,
+   "topic": "Official Assignment Week 2 (2026)",
+   "difficulty": "official",
+   "text": "Noise pollution can be considered as indirect impact of transportation on environment.",
+   "explanation": "Noise is a direct impact (official live-session key: False).",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 2 (2026)"
+   ],
+   "assignment": 2,
+   "format": "tf",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W02-08",
+   "week": 2,
+   "topic": "Official Assignment Week 2 (2026)",
+   "difficulty": "official",
+   "text": "The noise level at commercial areas in night time should not exceed ______ dB(A) as per CPCB (India) standards.",
+   "explanation": "CPCB night-time limit for commercial areas is 55 dB(A).",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 2 (2026)"
+   ],
+   "assignment": 2,
+   "format": "mcq",
+   "options": [
+    "40",
+    "45",
+    "50",
+    "55"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "id": "O26-W02-09",
+   "week": 2,
+   "topic": "Official Assignment Week 2 (2026)",
+   "difficulty": "official",
+   "text": "Application of 'ballast water' is related to the following mode of transportation:",
+   "explanation": "Ships use ballast water for stability.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 2 (2026)"
+   ],
+   "assignment": 2,
+   "format": "mcq",
+   "options": [
+    "Air",
+    "Railway",
+    "Road",
+    "Water"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "id": "O26-W02-10",
+   "week": 2,
+   "topic": "Official Assignment Week 2 (2026)",
+   "difficulty": "official",
+   "text": "The CPCB noise level standards in India have the potential for comparatively lesser noise emissions when compared to the FHWA standards in the U.S.",
+   "explanation": "True per the course material.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 2 (2026)"
+   ],
+   "assignment": 2,
+   "format": "tf",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W03-01",
+   "week": 3,
+   "topic": "Official Assignment Week 3 (2026)",
+   "difficulty": "official",
+   "text": "World Bank adopted EIA process in the decade ______.",
+   "explanation": "Highlighted as correct in the official 2026 paper.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 3 (2026)"
+   ],
+   "assignment": 3,
+   "format": "mcq",
+   "options": [
+    "1960s",
+    "1970s",
+    "1980s",
+    "1990s"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W03-02",
+   "week": 3,
+   "topic": "Official Assignment Week 3 (2026)",
+   "difficulty": "official",
+   "text": "Poor water quality of a river is an example of irreversible impact.",
+   "explanation": "River water quality can usually recover once the pollution stops, so it is generally reversible.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 3 (2026)"
+   ],
+   "assignment": 3,
+   "format": "tf",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W03-03",
+   "week": 3,
+   "topic": "Official Assignment Week 3 (2026)",
+   "difficulty": "official",
+   "text": "The Rio Earth Summit was held in Brazil in the year ______.",
+   "explanation": "The Rio Earth Summit was held in 1992.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 3 (2026)"
+   ],
+   "assignment": 3,
+   "format": "mcq",
+   "options": [
+    "1991",
+    "1992",
+    "1998",
+    "1999"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W03-04",
+   "week": 3,
+   "topic": "Official Assignment Week 3 (2026)",
+   "difficulty": "official",
+   "text": "Establishing the area of study and factors for assessment for baseline studies are the most important outcomes of ______ stage of EIA.",
+   "explanation": "Scoping defines the study area and assessment factors.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 3 (2026)"
+   ],
+   "assignment": 3,
+   "format": "mcq",
+   "options": [
+    "Screening",
+    "Scoping",
+    "Monitoring",
+    "Public Participation"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W03-05",
+   "week": 3,
+   "topic": "Official Assignment Week 3 (2026)",
+   "difficulty": "official",
+   "text": "Arrange the stages of an EIA in sequence: (i) Impact assessment (ii) Baseline data collection (iii) Mitigation (iv) Impact statement (v) Follow-up",
+   "explanation": "Baseline -> impact assessment -> mitigation -> impact statement -> follow-up.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 3 (2026)"
+   ],
+   "assignment": 3,
+   "format": "mcq",
+   "options": [
+    "(i), (ii), (iii), (v), (iv)",
+    "(ii), (i), (iii), (iv), (v)",
+    "(i), (iii), (ii), (iv), (v)",
+    "(i), (v), (iii), (ii), (iv)"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W03-07",
+   "week": 3,
+   "topic": "Official Assignment Week 3 (2026)",
+   "difficulty": "official",
+   "text": "Statement 1. 'Area of direct influence' of a project site is greater than the 'Net project area'. Statement 2. The 'Total project area' is greater than the 'Net project area'.",
+   "explanation": "Highlighted as correct in the official 2026 paper.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 3 (2026)"
+   ],
+   "assignment": 3,
+   "format": "mcq",
+   "options": [
+    "Both statements are true",
+    "Only statement 1 is true",
+    "Statements 1 and 2 are false",
+    "Only statement 2 is true"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W03-09",
+   "week": 3,
+   "topic": "Official Assignment Week 3 (2026)",
+   "difficulty": "official",
+   "text": "Select the steps for the Mitigation process in the correct sequential order.",
+   "explanation": "The mitigation hierarchy ends with offset as the last resort.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 3 (2026)"
+   ],
+   "assignment": 3,
+   "format": "mcq",
+   "options": [
+    "Predict impacts - Avoid - Mitigate - Restore - Offset",
+    "Predict impacts - Avoid - Offset - Mitigate - Restore",
+    "Offset - Predict impacts - Avoid - Mitigate - Restore",
+    "Predict impacts - Offset - Avoid - Mitigate - Restore"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W03-10",
+   "week": 3,
+   "topic": "Official Assignment Week 3 (2026)",
+   "difficulty": "official",
+   "text": "A new national highway under EIA draft notification 2020 will be considered under category ______.",
+   "explanation": "Highlighted as correct in the official 2026 paper.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 3 (2026)"
+   ],
+   "assignment": 3,
+   "format": "mcq",
+   "options": [
+    "A",
+    "B",
+    "C-B1",
+    "B2"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W04-01",
+   "week": 4,
+   "topic": "Official Assignment Week 4 (2026)",
+   "difficulty": "official",
+   "text": "In European countries, member nations categorise project for EIA screening process in ___ no. of categories.",
+   "explanation": "Highlighted as correct in the official 2026 paper.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 4 (2026)"
+   ],
+   "assignment": 4,
+   "format": "mcq",
+   "options": [
+    "2",
+    "3",
+    "4",
+    "Screening process is not a part of EU's EIA process"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W04-02",
+   "week": 4,
+   "topic": "Official Assignment Week 4 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is India's first high speed rail corridor project?",
+   "explanation": "MAHSR connects Mumbai and Ahmedabad.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 4 (2026)"
+   ],
+   "assignment": 4,
+   "format": "mcq",
+   "options": [
+    "Mumbai-Bangalore High Speed Rail project",
+    "Mumbai-Ahmedabad High Speed Rail project",
+    "Mumbai-Pune High Speed Rail project",
+    "Mumbai-Delhi High Speed Rail project"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W04-03",
+   "week": 4,
+   "topic": "Official Assignment Week 4 (2026)",
+   "difficulty": "official",
+   "text": "'SPV' for a project stands for ______.",
+   "explanation": "SPV = Special Purpose Vehicle.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 4 (2026)"
+   ],
+   "assignment": 4,
+   "format": "mcq",
+   "options": [
+    "Special Purpose Vehicle",
+    "Standard Purpose Vehicle",
+    "Standard Project Vehicle",
+    "Special Project Vehicle"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W04-04",
+   "week": 4,
+   "topic": "Official Assignment Week 4 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is not a stakeholder in the public consultation process of EIA?",
+   "explanation": "Banks are not typical stakeholders in public consultation.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 4 (2026)"
+   ],
+   "assignment": 4,
+   "format": "mcq",
+   "options": [
+    "Local NGOs",
+    "Local Banks",
+    "Local people",
+    "Local Environmentalists"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W04-05",
+   "week": 4,
+   "topic": "Official Assignment Week 4 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is not a mitigation measure used for slope stabilization in hilly roads?",
+   "explanation": "Crash barriers are for vehicle safety, not slope stabilisation.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 4 (2026)"
+   ],
+   "assignment": 4,
+   "format": "mcq",
+   "options": [
+    "Hedge brush layer",
+    "Rock Anchoring",
+    "Hydro-seeding",
+    "Crash Barrier"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "id": "O26-W04-06",
+   "week": 4,
+   "topic": "Official Assignment Week 4 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is not a mitigation measure used in roads for reducing accidents?",
+   "explanation": "Bamboo net plantation stabilises slopes; it does not prevent accidents.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 4 (2026)"
+   ],
+   "assignment": 4,
+   "format": "mcq",
+   "options": [
+    "Hazard markers",
+    "Raised Reflective Pavement Marker",
+    "Bamboo net plantation",
+    "Crash barriers"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W04-07",
+   "week": 4,
+   "topic": "Official Assignment Week 4 (2026)",
+   "difficulty": "official",
+   "text": "Level of service 'E' for airport represents the service level as ______.",
+   "explanation": "Highlighted as correct in the official 2026 paper.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 4 (2026)"
+   ],
+   "assignment": 4,
+   "format": "mcq",
+   "options": [
+    "Inadequate comfort",
+    "Excellent service",
+    "Good comfort",
+    "Unacceptable"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W04-08",
+   "week": 4,
+   "topic": "Official Assignment Week 4 (2026)",
+   "difficulty": "official",
+   "text": "As per EIA notification 2006, all airports come under category ____ for EIA process.",
+   "explanation": "Highlighted as correct in the official 2026 paper.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 4 (2026)"
+   ],
+   "assignment": 4,
+   "format": "mcq",
+   "options": [
+    "A",
+    "B",
+    "C-B1",
+    "B2"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W04-09",
+   "week": 4,
+   "topic": "Official Assignment Week 4 (2026)",
+   "difficulty": "official",
+   "text": "According to the Impact Assessment Rating Matrix, if the impact severity is 'high' and the likelihood of impact is 'medium', then the overall impact is considered to be ______.",
+   "explanation": "Highlighted as correct in the official 2026 paper.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 4 (2026)"
+   ],
+   "assignment": 4,
+   "format": "mcq",
+   "options": [
+    "Negligible",
+    "Minor",
+    "Moderate",
+    "Major"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "id": "O26-W04-10",
+   "week": 4,
+   "topic": "Official Assignment Week 4 (2026)",
+   "difficulty": "official",
+   "text": "The ______ is an imaginary flight path extending outwards from either side of the runway.",
+   "explanation": "The approach/funnel area extends from the runway ends.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 4 (2026)"
+   ],
+   "assignment": 4,
+   "format": "mcq",
+   "options": [
+    "Conical area",
+    "Cylindrical area",
+    "Funnel area",
+    "Helical area"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W05-01",
+   "week": 5,
+   "topic": "Official Assignment Week 5 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is not a part of the Sustainability approach for land use in Transport sector?",
+   "explanation": "Sustainable land use favours compact, mixed-use development, not low density.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 5 (2026)"
+   ],
+   "assignment": 5,
+   "format": "mcq",
+   "options": [
+    "Mixed land use",
+    "Transit oriented development",
+    "Low density development",
+    "Promoting Non-motorized transport"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W05-02",
+   "week": 5,
+   "topic": "Official Assignment Week 5 (2026)",
+   "difficulty": "official",
+   "text": "In Sustainable transport planning approach, the land use should be done in a way such that it promotes non-motorized and public transport rather than prioritizing car and personal vehicles.",
+   "explanation": "True: this statement is correct according to the highlighted official key.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 5 (2026)"
+   ],
+   "assignment": 5,
+   "format": "tf",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W05-03",
+   "week": 5,
+   "topic": "Official Assignment Week 5 (2026)",
+   "difficulty": "official",
+   "text": "Road pattern of Central Delhi in India follows ______.",
+   "explanation": "Highlighted as correct in the official 2026 paper.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 5 (2026)"
+   ],
+   "assignment": 5,
+   "format": "mcq",
+   "options": [
+    "Grid/Block pattern",
+    "Star and Block pattern",
+    "Star and circular pattern",
+    "Hexagon pattern"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W05-05",
+   "week": 5,
+   "topic": "Official Assignment Week 5 (2026)",
+   "difficulty": "official",
+   "text": "The rebuild of an area/locality into a more affluent and well-developed neighbourhood is termed as ______.",
+   "explanation": "That process is gentrification.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 5 (2026)"
+   ],
+   "assignment": 5,
+   "format": "mcq",
+   "options": [
+    "Gentrification",
+    "Von Thunen model",
+    "SITAR planning",
+    "Garden city"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W05-06",
+   "week": 5,
+   "topic": "Official Assignment Week 5 (2026)",
+   "difficulty": "official",
+   "text": "A city of 50 square km has a total 100 km long road network. What will be the network density of the city?",
+   "explanation": "Network density = 100 km / 50 km2 = 2 km per km2.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 5 (2026)"
+   ],
+   "assignment": 5,
+   "format": "mcq",
+   "options": [
+    "5000 per km",
+    "2 km per square km",
+    "0.5 per km",
+    "0.5 km per square km"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W05-07",
+   "week": 5,
+   "topic": "Official Assignment Week 5 (2026)",
+   "difficulty": "official",
+   "text": "If there are 200 sections of road in the city (question 6), what would be the Eta index of the city?",
+   "explanation": "Eta index = total road length / number of links = 100 / 200 = 0.5 km.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 5 (2026)"
+   ],
+   "assignment": 5,
+   "format": "mcq",
+   "options": [
+    "20000 square km",
+    "2 per km",
+    "0.005 per square km",
+    "0.5 km"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "id": "O26-W05-08",
+   "week": 5,
+   "topic": "Official Assignment Week 5 (2026)",
+   "difficulty": "official",
+   "text": "Naya Raipur BRTS system is an example of ______.",
+   "explanation": "Highlighted as correct in the official 2026 paper.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 5 (2026)"
+   ],
+   "assignment": 5,
+   "format": "mcq",
+   "options": [
+    "Greenfield TOD",
+    "Brownfield TOD",
+    "Sub-Urban TOD",
+    "None of these"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W05-09",
+   "week": 5,
+   "topic": "Official Assignment Week 5 (2026)",
+   "difficulty": "official",
+   "text": "The walkshed area for a metro is ______ that of a Bus transit system.",
+   "explanation": "People walk farther to a metro station than to a bus stop.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 5 (2026)"
+   ],
+   "assignment": 5,
+   "format": "mcq",
+   "options": [
+    "Equal To",
+    "Lower Than",
+    "Greater Than",
+    "Half"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W05-10",
+   "week": 5,
+   "topic": "Official Assignment Week 5 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is not a barrier in implementing Transit Oriented Development?",
+   "explanation": "A balanced mix of uses is a goal of TOD, not a barrier.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 5 (2026)"
+   ],
+   "assignment": 5,
+   "format": "mcq",
+   "options": [
+    "Balanced mix of uses and activities",
+    "Neglected urban design at the neighbourhood and street level",
+    "Inadequate policies, regulations and supporting mechanism",
+    "Financial constraints"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W06-01",
+   "week": 6,
+   "topic": "Official Assignment Week 6 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following best defines the purpose of 'trip distribution' in transport planning?",
+   "explanation": "Distribution allocates trips between zone pairs.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 6 (2026)"
+   ],
+   "assignment": 6,
+   "format": "mcq",
+   "options": [
+    "Forecasts the travel demands for a specified area",
+    "Forecasts the number of trips between origin and destinations in each zones of study area",
+    "Assigns traffic to a predicted model",
+    "None of these"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W06-02",
+   "week": 6,
+   "topic": "Official Assignment Week 6 (2026)",
+   "difficulty": "official",
+   "text": "If the size of a plot is 500 square feet with land coverage of 70%, and the FAR is 10, then the maximum number of floors allowed is:",
+   "explanation": "Built-up = 10 x 500 = 5000 sq ft; footprint = 350 sq ft; floors = 5000/350 = 14.3, so a maximum of 14.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 6 (2026)"
+   ],
+   "assignment": 6,
+   "format": "mcq",
+   "options": [
+    "7",
+    "14",
+    "21",
+    "28"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W06-03",
+   "week": 6,
+   "topic": "Official Assignment Week 6 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is false with respect to 'transportation surveys'?",
+   "explanation": "Surveys come at the start (data collection), not at the last stage.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 6 (2026)"
+   ],
+   "assignment": 6,
+   "format": "mcq",
+   "options": [
+    "Voluminous and time consuming",
+    "Last stage in the formulation of a Transportation plan",
+    "Collects data on all factors influencing travel patterns",
+    "Cost involved is very high"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W06-04",
+   "week": 6,
+   "topic": "Official Assignment Week 6 (2026)",
+   "difficulty": "official",
+   "text": "If land use of an area can be changed easily in terms of regulatory procedures, it can be termed as ______.",
+   "explanation": "Easily changeable land use is soft land.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 6 (2026)"
+   ],
+   "assignment": 6,
+   "format": "mcq",
+   "options": [
+    "Hard land",
+    "Moderate land",
+    "Soft land",
+    "None of these"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W06-05",
+   "week": 6,
+   "topic": "Official Assignment Week 6 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is not a sustainable transport planning solution?",
+   "explanation": "Car-centred planning is the opposite of sustainable planning.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 6 (2026)"
+   ],
+   "assignment": 6,
+   "format": "mcq",
+   "options": [
+    "Park and Ride facility",
+    "Shared spaces",
+    "Uninterrupted bus lanes",
+    "Automobile-centered planning"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "id": "O26-W06-06",
+   "week": 6,
+   "topic": "Official Assignment Week 6 (2026)",
+   "difficulty": "official",
+   "text": "A city with a population of 1000 generates 2700 trips per day. What would be the trip rate of that city?",
+   "explanation": "Trip rate = 2700 / 1000 = 2.7.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 6 (2026)"
+   ],
+   "assignment": 6,
+   "format": "mcq",
+   "options": [
+    "2.1",
+    "2.4",
+    "2.7",
+    "2.9"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W06-07",
+   "week": 6,
+   "topic": "Official Assignment Week 6 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is true in case of transit oriented development approach?",
+   "explanation": "Highlighted as correct in the official 2026 paper.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 6 (2026)"
+   ],
+   "assignment": 6,
+   "format": "mcq",
+   "options": [
+    "Station area > Community zone > Transition zone",
+    "Community zone > Station area > Transition zone",
+    "Station area > Transition zone > Community zone",
+    "Transition zone > Community zone > Station area"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W06-09",
+   "week": 6,
+   "topic": "Official Assignment Week 6 (2026)",
+   "difficulty": "official",
+   "text": "The line used to represent the physical or natural barriers of a study area for the purpose of transport planning surveys is termed as:",
+   "explanation": "A screen line follows physical/natural barriers such as rivers or rail lines.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 6 (2026)"
+   ],
+   "assignment": 6,
+   "format": "mcq",
+   "options": [
+    "Internal cordon",
+    "External cordon",
+    "Screen line",
+    "None of these"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W06-10",
+   "week": 6,
+   "topic": "Official Assignment Week 6 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following option is correct in case of TOD of Delhi city?",
+   "explanation": "Delhi Metro TOD is brownfield and urban.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 6 (2026)"
+   ],
+   "assignment": 6,
+   "format": "mcq",
+   "options": [
+    "Greenfield Urban TOD",
+    "Greenfield Sub-urban TOD",
+    "Brownfield Sub-urban TOD",
+    "Brownfield Urban TOD"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "id": "O26-W07-01",
+   "week": 7,
+   "topic": "Official Assignment Week 7 (2026)",
+   "difficulty": "official",
+   "text": "Life cycle assessment is a form of environmental impact assessment.",
+   "explanation": "Highlighted as correct in the official 2026 paper.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 7 (2026)"
+   ],
+   "assignment": 7,
+   "format": "tf",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W07-02",
+   "week": 7,
+   "topic": "Official Assignment Week 7 (2026)",
+   "difficulty": "official",
+   "text": "Vertical obstruction in the form of a rounded and raised area of pavement is known as ______.",
+   "explanation": "Speed humps are rounded; speed tables are flat-topped.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 7 (2026)"
+   ],
+   "assignment": 7,
+   "format": "mcq",
+   "options": [
+    "Speed table",
+    "Speed humps",
+    "Bulb out",
+    "Speed curb"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W07-03",
+   "week": 7,
+   "topic": "Official Assignment Week 7 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is not a strategy for transportation system management?",
+   "explanation": "TSM encourages, not discourages, car pooling.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 7 (2026)"
+   ],
+   "assignment": 7,
+   "format": "mcq",
+   "options": [
+    "Discouraging car pooling",
+    "Internal shuttle in city centre",
+    "Exclusive bus lanes",
+    "Cordon pricing"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W07-04",
+   "week": 7,
+   "topic": "Official Assignment Week 7 (2026)",
+   "difficulty": "official",
+   "text": "'Well to Wheel' is a type of system boundary for Life Cycle Assessment (LCA).",
+   "explanation": "True: well-to-wheel is an LCA boundary for fuels/vehicles.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 7 (2026)"
+   ],
+   "assignment": 7,
+   "format": "tf",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W07-05",
+   "week": 7,
+   "topic": "Official Assignment Week 7 (2026)",
+   "difficulty": "official",
+   "text": "The 'Guidance on conducting the life cycle impact assessment (LCIA) phase of LCA' pertains to ______.",
+   "explanation": "In the earlier ISO series 14041 covered inventory, 14042 impact assessment and 14043 interpretation.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 7 (2026)"
+   ],
+   "assignment": 7,
+   "format": "mcq",
+   "options": [
+    "ISO 14041",
+    "ISO 14042",
+    "ISO 14043",
+    "ISO 14044"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W07-06",
+   "week": 7,
+   "topic": "Official Assignment Week 7 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is also known as raised crosswalk if placed at a pedestrian crossing?",
+   "explanation": "A speed table at a crossing is a raised crosswalk.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 7 (2026)"
+   ],
+   "assignment": 7,
+   "format": "mcq",
+   "options": [
+    "Speed humps",
+    "Speed table",
+    "Speed bumps",
+    "Bulb-out"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W07-07",
+   "week": 7,
+   "topic": "Official Assignment Week 7 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is not an objective of Life cycle assessment?",
+   "explanation": "LCA objectives are environmental, not cost reduction.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 7 (2026)"
+   ],
+   "assignment": 7,
+   "format": "mcq",
+   "options": [
+    "Product improvement",
+    "Product cost reduction",
+    "Decision making",
+    "Environment planning"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W07-08",
+   "week": 7,
+   "topic": "Official Assignment Week 7 (2026)",
+   "difficulty": "official",
+   "text": "'Walking as a transport mode has minimum negative impact on the environment'.",
+   "explanation": "True: this statement is correct according to the highlighted official key.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 7 (2026)"
+   ],
+   "assignment": 7,
+   "format": "tf",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W07-09",
+   "week": 7,
+   "topic": "Official Assignment Week 7 (2026)",
+   "difficulty": "official",
+   "text": "'Prohibiting the right/left turning movements of vehicles is a strategy used for transportation management'.",
+   "explanation": "True (official 2021 assignment treated turn prohibitions as TSM).",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 7 (2026)"
+   ],
+   "assignment": 7,
+   "format": "tf",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W07-10",
+   "week": 7,
+   "topic": "Official Assignment Week 7 (2026)",
+   "difficulty": "official",
+   "text": "Which one of the following options is not involved in LCA-based product marketing?",
+   "explanation": "Environmental claims, eco-labels and declarations are LCA-based marketing tools.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 7 (2026)"
+   ],
+   "assignment": 7,
+   "format": "mcq",
+   "options": [
+    "Environmental claim",
+    "User-friendly",
+    "Eco-labelling",
+    "Product declaration"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W08-01",
+   "week": 8,
+   "topic": "Official Assignment Week 8 (2026)",
+   "difficulty": "official",
+   "text": "In Material flow analysis (MFA), the substances or mixtures of substances that have economic values assigned by markets is called ______.",
+   "explanation": "In MFA terminology goods have a market value.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 8 (2026)"
+   ],
+   "assignment": 8,
+   "format": "mcq",
+   "options": [
+    "Material",
+    "Stock",
+    "Goods",
+    "Inputs"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W08-02",
+   "week": 8,
+   "topic": "Official Assignment Week 8 (2026)",
+   "difficulty": "official",
+   "text": "The MFA concept equation is:",
+   "explanation": "Input = Output + Stock is equivalent to Output = Input - Stock.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 8 (2026)"
+   ],
+   "assignment": 8,
+   "format": "mcq",
+   "options": [
+    "Output = Input - Stock",
+    "2 x Stock = Input + Output",
+    "Input = Output - Stock",
+    "Stock = 4 x (Input + Output)"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W08-03",
+   "week": 8,
+   "topic": "Official Assignment Week 8 (2026)",
+   "difficulty": "official",
+   "text": "During MFA, 100 litres of fuel is consumed; the fuel has 3 grams of lead per litre. After combustion, 180 grams of lead was found in the exhaust. The stock in the system (grams) is (vehicle as system boundary):",
+   "explanation": "Input = 100 x 3 = 300 g; output = 180 g; stock = 120 g.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 8 (2026)"
+   ],
+   "assignment": 8,
+   "format": "mcq",
+   "options": [
+    "120",
+    "300",
+    "180",
+    "100"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W08-04",
+   "week": 8,
+   "topic": "Official Assignment Week 8 (2026)",
+   "difficulty": "official",
+   "text": "In MFA, 'Mass per unit of time per unit of area' is called ______.",
+   "explanation": "Flux = flow per unit area.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 8 (2026)"
+   ],
+   "assignment": 8,
+   "format": "mcq",
+   "options": [
+    "Flow",
+    "Flux",
+    "Import/export",
+    "Input/output"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W08-05",
+   "week": 8,
+   "topic": "Official Assignment Week 8 (2026)",
+   "difficulty": "official",
+   "text": "For circular economy, which of the following is not correct?",
+   "explanation": "Take-make-consume-throw away is the linear economy.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 8 (2026)"
+   ],
+   "assignment": 8,
+   "format": "mcq",
+   "options": [
+    "'take-make-consume-recycle' pattern",
+    "'take-make-consume-throw away' pattern",
+    "'take-make-consume-reuse' pattern",
+    "'take-make-consume-refurbish' pattern"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W08-06",
+   "week": 8,
+   "topic": "Official Assignment Week 8 (2026)",
+   "difficulty": "official",
+   "text": "Linear economic model is based on 'higher the resource consumption-bigger the economy & related activities'.",
+   "explanation": "True: this statement is correct according to the highlighted official key.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 8 (2026)"
+   ],
+   "assignment": 8,
+   "format": "tf",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W08-07",
+   "week": 8,
+   "topic": "Official Assignment Week 8 (2026)",
+   "difficulty": "official",
+   "text": "Vehicle scrappage policy by Government of India was introduced in the year ______.",
+   "explanation": "The National Vehicle Scrappage Policy was announced in 2021.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 8 (2026)"
+   ],
+   "assignment": 8,
+   "format": "mcq",
+   "options": [
+    "2019",
+    "2020",
+    "2021",
+    "2022"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W08-08",
+   "week": 8,
+   "topic": "Official Assignment Week 8 (2026)",
+   "difficulty": "official",
+   "text": "The discipline that studies nature's best ideas and then imitates these designs and processes to solve human problems is called ______.",
+   "explanation": "That is biomimicry.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 8 (2026)"
+   ],
+   "assignment": 8,
+   "format": "mcq",
+   "options": [
+    "Blue economy",
+    "Biomimicry",
+    "Industrial ecology",
+    "Performance economy"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W08-09",
+   "week": 8,
+   "topic": "Official Assignment Week 8 (2026)",
+   "difficulty": "official",
+   "text": "The Butterfly diagram for a circular economy represents the ______ cycles.",
+   "explanation": "The butterfly diagram shows biological and technical cycles.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 8 (2026)"
+   ],
+   "assignment": 8,
+   "format": "mcq",
+   "options": [
+    "biological and technical",
+    "biological and ecological",
+    "economic and technical",
+    "economic and environmental"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W08-10",
+   "week": 8,
+   "topic": "Official Assignment Week 8 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is not a transport emission estimation model?",
+   "explanation": "AERMOD is a dispersion model.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 8 (2026)"
+   ],
+   "assignment": 8,
+   "format": "mcq",
+   "options": [
+    "Emission factor (EMFAC) model",
+    "MOBILE model",
+    "AERMOD model",
+    "International Vehicle Emissions (IVE) model"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W09-01",
+   "week": 9,
+   "topic": "Official Assignment Week 9 (2026)",
+   "difficulty": "official",
+   "text": "The Calculation of Road Traffic Noise (CoRTN) model was developed by the Transport and Road Research Laboratory and the Department of Transport of ______.",
+   "explanation": "CoRTN is a UK model.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 9 (2026)"
+   ],
+   "assignment": 9,
+   "format": "mcq",
+   "options": [
+    "United States of America",
+    "United Kingdom",
+    "Germany",
+    "Japan"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W09-02",
+   "week": 9,
+   "topic": "Official Assignment Week 9 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is an example of lagrangian/eulerian dispersion model?",
+   "explanation": "Highlighted as correct in the official 2026 paper.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 9 (2026)"
+   ],
+   "assignment": 9,
+   "format": "mcq",
+   "options": [
+    "CALINE4",
+    "HIWAY2",
+    "CALPUFF",
+    "GRAL"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "id": "O26-W09-03",
+   "week": 9,
+   "topic": "Official Assignment Week 9 (2026)",
+   "difficulty": "official",
+   "text": "According to the NMPB-2008-Routes traffic noise emission model, heavy goods vehicles are categorized with gross vehicle weight (GVW) ______.",
+   "explanation": "NMPB separates light and heavy vehicles at 3.5 tonnes.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 9 (2026)"
+   ],
+   "assignment": 9,
+   "format": "mcq",
+   "options": [
+    ">= 3.5 tonnes",
+    ">= 6.5 tonnes",
+    ">= 9.5 tonnes",
+    ">= 15 tonnes"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W09-04",
+   "week": 9,
+   "topic": "Official Assignment Week 9 (2026)",
+   "difficulty": "official",
+   "text": "Number of non-attainment cities under National Clean Air Programme (NCAP) are:",
+   "explanation": "122 as in the 2021 key (the number has been revised upward since).",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 9 (2026)"
+   ],
+   "assignment": 9,
+   "format": "mcq",
+   "options": [
+    "31",
+    "56",
+    "122",
+    "138"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W09-05",
+   "week": 9,
+   "topic": "Official Assignment Week 9 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is not true with respect to the VAPI Model?",
+   "explanation": "2021 key: VAPI does not include a speed correction factor.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 9 (2026)"
+   ],
+   "assignment": 9,
+   "format": "mcq",
+   "options": [
+    "Based on emission factors",
+    "Designed for developing countries",
+    "Has incorporated climatic correction factors",
+    "Has incorporated the speed related correction factor"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "id": "O26-W09-06",
+   "week": 9,
+   "topic": "Official Assignment Week 9 (2026)",
+   "difficulty": "official",
+   "text": "Vehicular emissions are considered as line source of emissions?",
+   "explanation": "True: this statement is correct according to the highlighted official key.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 9 (2026)"
+   ],
+   "assignment": 9,
+   "format": "tf",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W09-07",
+   "week": 9,
+   "topic": "Official Assignment Week 9 (2026)",
+   "difficulty": "official",
+   "text": "The Paris agreement aims to keep the global temperature rise this century well below ______ degree Celsius above pre-industrial levels.",
+   "explanation": "Well below 2 degC.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 9 (2026)"
+   ],
+   "assignment": 9,
+   "format": "mcq",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W09-08",
+   "week": 9,
+   "topic": "Official Assignment Week 9 (2026)",
+   "difficulty": "official",
+   "text": "Statement 1: Green transition: Investments must accelerate the decarbonisation of all aspects of our economy. Statement 2: Green economy: making societies and people more resilient through a transition that is fair to all and leaves no one behind.",
+   "explanation": "Both describe the green transition/green economy.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 9 (2026)"
+   ],
+   "assignment": 9,
+   "format": "mcq",
+   "options": [
+    "Only Statement 1 is true",
+    "Only Statement 2 is true",
+    "Both statements 1 and 2 are true",
+    "Both statements 1 and 2 are false"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W09-09",
+   "week": 9,
+   "topic": "Official Assignment Week 9 (2026)",
+   "difficulty": "official",
+   "text": "The NCAP targets to achieve 20%-30% reduction in the particulate matter concentrations in non-attainment cities by the year ______, considering ______ as the base year.",
+   "explanation": "NCAP: 20-30% PM reduction by 2024 against 2017.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 9 (2026)"
+   ],
+   "assignment": 9,
+   "format": "mcq",
+   "options": [
+    "2020 & 2015",
+    "2028 & 2015",
+    "2028 & 2017",
+    "2024 & 2017"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "id": "O26-W09-10",
+   "week": 9,
+   "topic": "Official Assignment Week 9 (2026)",
+   "difficulty": "official",
+   "text": "Which one of the following institutions ordered the deregistration of diesel vehicles older than 10 years in the National capital territory of Delhi?",
+   "explanation": "The National Green Tribunal ordered this (2014-2015).",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 9 (2026)"
+   ],
+   "assignment": 9,
+   "format": "mcq",
+   "options": [
+    "Supreme Court",
+    "National Green Tribunal",
+    "Central Pollution Control Board",
+    "Ministry of Environment, Forest and Climate Change"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W10-01",
+   "week": 10,
+   "topic": "Official Assignment Week 10 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is the most energy efficient vehicle in terms of conversion efficiency of electricity?",
+   "explanation": "Battery EVs convert electricity most efficiently.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 10 (2026)"
+   ],
+   "assignment": 10,
+   "format": "mcq",
+   "options": [
+    "Internal combustion engine vehicles",
+    "Fuel cell vehicles",
+    "Battery electric vehicles",
+    "All options are equally efficient"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W10-02",
+   "week": 10,
+   "topic": "Official Assignment Week 10 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is not a fossil fuel for transportation?",
+   "explanation": "Highlighted as correct in the official 2026 paper. Note: methanol from natural gas is actually fossil-derived, so the wording looks inverted; learn the keyed option for the exam.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 10 (2026)"
+   ],
+   "assignment": 10,
+   "format": "mcq",
+   "options": [
+    "Methanol from natural gas",
+    "Methanol from biomass",
+    "Electricity from renewable sources",
+    "Ethanol"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W10-03",
+   "week": 10,
+   "topic": "Official Assignment Week 10 (2026)",
+   "difficulty": "official",
+   "text": "Which fuel can be produced from water through hydrolysis using electricity?",
+   "explanation": "Electrolysis of water gives hydrogen.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 10 (2026)"
+   ],
+   "assignment": 10,
+   "format": "mcq",
+   "options": [
+    "Biodiesel",
+    "Ethanol",
+    "Methanol",
+    "Hydrogen"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "id": "O26-W10-04",
+   "week": 10,
+   "topic": "Official Assignment Week 10 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is a non-fossil fuel alternative for transportation?",
+   "explanation": "Highlighted as correct in the official 2026 paper.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 10 (2026)"
+   ],
+   "assignment": 10,
+   "format": "mcq",
+   "options": [
+    "Methanol from natural gas",
+    "Methanol from biomass",
+    "Compressed natural gas",
+    "Butanol"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W10-05",
+   "week": 10,
+   "topic": "Official Assignment Week 10 (2026)",
+   "difficulty": "official",
+   "text": "Losses in electric vehicles occurs due to cooling device that controls the battery temperature and energy consumption by the battery management system.",
+   "explanation": "True: this statement is correct according to the highlighted official key.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 10 (2026)"
+   ],
+   "assignment": 10,
+   "format": "tf",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W10-06",
+   "week": 10,
+   "topic": "Official Assignment Week 10 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is not a requirement of an ideal electric vehicle battery?",
+   "explanation": "Ideal batteries should be affordable.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 10 (2026)"
+   ],
+   "assignment": 10,
+   "format": "mcq",
+   "options": [
+    "High energy capacity",
+    "Good charge retention",
+    "Made of expensive materials",
+    "High peak power output"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W10-07",
+   "week": 10,
+   "topic": "Official Assignment Week 10 (2026)",
+   "difficulty": "official",
+   "text": "The well to tank emissions for electric vehicles mainly depend on ______.",
+   "explanation": "Upstream emissions depend on how the electricity is generated.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 10 (2026)"
+   ],
+   "assignment": 10,
+   "format": "mcq",
+   "options": [
+    "Battery efficiency",
+    "Electricity source",
+    "Vehicle maintenance",
+    "Vehicle traction system"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W10-08",
+   "week": 10,
+   "topic": "Official Assignment Week 10 (2026)",
+   "difficulty": "official",
+   "text": "TransMilenio, Bogota is an example of ______.",
+   "explanation": "TransMilenio is a BRT system.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 10 (2026)"
+   ],
+   "assignment": 10,
+   "format": "mcq",
+   "options": [
+    "Metro transit system",
+    "Light rail transit system",
+    "Bus rapid transit system",
+    "Rapid rail transit system"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W10-09",
+   "week": 10,
+   "topic": "Official Assignment Week 10 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is a component of Hyperloop?",
+   "explanation": "Capsule, tube and propulsion are all components.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 10 (2026)"
+   ],
+   "assignment": 10,
+   "format": "mcq",
+   "options": [
+    "Capsule",
+    "Tube",
+    "Propulsion",
+    "All of these"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "id": "O26-W10-10",
+   "week": 10,
+   "topic": "Official Assignment Week 10 (2026)",
+   "difficulty": "official",
+   "text": "Hyperloop is based on the principle of ______.",
+   "explanation": "Hyperloop uses electromagnetic levitation/propulsion in a low-pressure tube.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 10 (2026)"
+   ],
+   "assignment": 10,
+   "format": "mcq",
+   "options": [
+    "Fuel based propulsion",
+    "Electro-magnetic levitation",
+    "Photochemical reaction",
+    "Fuel combustion"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W11-01",
+   "week": 11,
+   "topic": "Official Assignment Week 11 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following is not a direct impact of metros when compared to automobiles?",
+   "explanation": "Metros reduce, not increase, street congestion.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 11 (2026)"
+   ],
+   "assignment": 11,
+   "format": "mcq",
+   "options": [
+    "Fuel savings",
+    "Reduction in air pollution",
+    "Increased congestion on streets",
+    "Reduced accidents on streets"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W11-02",
+   "week": 11,
+   "topic": "Official Assignment Week 11 (2026)",
+   "difficulty": "official",
+   "text": "The first metro rail system in the world to earn carbon credits for reducing GHG emissions is ______.",
+   "explanation": "Delhi Metro earned UN carbon credits under the Clean Development Mechanism.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 11 (2026)"
+   ],
+   "assignment": 11,
+   "format": "mcq",
+   "options": [
+    "Tokyo metro, Japan",
+    "Shanghai metro, China",
+    "Delhi metro, India",
+    "Seoul metro, South Korea"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W11-03",
+   "week": 11,
+   "topic": "Official Assignment Week 11 (2026)",
+   "difficulty": "official",
+   "text": "Which of the following options is being used to make metro system more environmentally friendly and sustainable?",
+   "explanation": "The CDM supports metros through carbon credits.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 11 (2026)"
+   ],
+   "assignment": 11,
+   "format": "mcq",
+   "options": [
+    "Congestion pricing",
+    "Clean development mechanism",
+    "Sky Rail System",
+    "Prohibited right/left turning"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W11-04",
+   "week": 11,
+   "topic": "Official Assignment Week 11 (2026)",
+   "difficulty": "official",
+   "text": "______ is not a sustainability rating system for airports.",
+   "explanation": "NAAC is an education accreditation body.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 11 (2026)"
+   ],
+   "assignment": 11,
+   "format": "mcq",
+   "options": [
+    "BREEAM",
+    "NAAC",
+    "LEED",
+    "ENVISION"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W11-05",
+   "week": 11,
+   "topic": "Official Assignment Week 11 (2026)",
+   "difficulty": "official",
+   "text": "______ is the sustainability rating system developed by the US Green Building Council.",
+   "explanation": "LEED is by the USGBC.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 11 (2026)"
+   ],
+   "assignment": 11,
+   "format": "mcq",
+   "options": [
+    "BREEAM",
+    "NAAC",
+    "LEED",
+    "ENVISION"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W11-06",
+   "week": 11,
+   "topic": "Official Assignment Week 11 (2026)",
+   "difficulty": "official",
+   "text": "The vessels used for transporting wheeled cargo such as cars, motorcycles and other vehicles through the inland waterways are called ______.",
+   "explanation": "Roll-on/roll-off vessels carry wheeled cargo.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 11 (2026)"
+   ],
+   "assignment": 11,
+   "format": "mcq",
+   "options": [
+    "Maersk Triple-E Class",
+    "Ro-Ro vessels",
+    "Dry-bulk cargo",
+    "None of these"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W11-07",
+   "week": 11,
+   "topic": "Official Assignment Week 11 (2026)",
+   "difficulty": "official",
+   "text": "______ is also known as the West coast canal in India.",
+   "explanation": "NW-3 (Kollam-Kottapuram) is the West Coast Canal.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 11 (2026)"
+   ],
+   "assignment": 11,
+   "format": "mcq",
+   "options": [
+    "National waterway-1",
+    "National waterway-2",
+    "National waterway-3",
+    "National waterway-4"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W11-08",
+   "week": 11,
+   "topic": "Official Assignment Week 11 (2026)",
+   "difficulty": "official",
+   "text": "The National Waterway-2 is located on ______ river.",
+   "explanation": "NW-2 is on the Brahmaputra.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 11 (2026)"
+   ],
+   "assignment": 11,
+   "format": "mcq",
+   "options": [
+    "Ganga",
+    "Brahmaputra",
+    "Periyar",
+    "Cauvery"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W11-09",
+   "week": 11,
+   "topic": "Official Assignment Week 11 (2026)",
+   "difficulty": "official",
+   "text": "According to the concept of sustainable transport systems, how much priority should be given to public transport, walking and non-motorized vehicles?",
+   "explanation": "Sustainable systems give them the highest priority.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 11 (2026)"
+   ],
+   "assignment": 11,
+   "format": "mcq",
+   "options": [
+    "Lowest",
+    "Highest",
+    "Equal",
+    "Does not matter"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W11-10",
+   "week": 11,
+   "topic": "Official Assignment Week 11 (2026)",
+   "difficulty": "official",
+   "text": "Which city is known as 'the city of cyclists'?",
+   "explanation": "Copenhagen is known as the city of cyclists.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 11 (2026)"
+   ],
+   "assignment": 11,
+   "format": "mcq",
+   "options": [
+    "Brussels",
+    "London",
+    "Copenhagen",
+    "Frankfurt"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W12-01",
+   "week": 12,
+   "topic": "Official Assignment Week 12 (2026)",
+   "difficulty": "official",
+   "text": "Which one of the following options is not an application of the OpenLCA tool?",
+   "explanation": "Highlighted as correct in the official 2026 paper.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 12 (2026)"
+   ],
+   "assignment": 12,
+   "format": "mcq",
+   "options": [
+    "Carbon footprint",
+    "Water footprint",
+    "Life cycle costing",
+    "Project viability"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "id": "O26-W12-02",
+   "week": 12,
+   "topic": "Official Assignment Week 12 (2026)",
+   "difficulty": "official",
+   "text": "The STAN tool for Material Flow Analysis was published by ______.",
+   "explanation": "STAN comes from TU Wien (Vienna University of Technology).",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 12 (2026)"
+   ],
+   "assignment": 12,
+   "format": "mcq",
+   "options": [
+    "University of Nottingham",
+    "Yale University",
+    "Technical University, Wien",
+    "University of Chicago"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W12-03",
+   "week": 12,
+   "topic": "Official Assignment Week 12 (2026)",
+   "difficulty": "official",
+   "text": "The first edition of the SDG India index (Index 1.0) was launched in the year ______.",
+   "explanation": "SDG India Index baseline report was launched in December 2018.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 12 (2026)"
+   ],
+   "assignment": 12,
+   "format": "mcq",
+   "options": [
+    "2017",
+    "2018",
+    "2019",
+    "2020"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W12-04",
+   "week": 12,
+   "topic": "Official Assignment Week 12 (2026)",
+   "difficulty": "official",
+   "text": "The sustainable indicators should not be ______.",
+   "explanation": "Indicators should be unbiased.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 12 (2026)"
+   ],
+   "assignment": 12,
+   "format": "mcq",
+   "options": [
+    "Easily measurable",
+    "Acceptable to all",
+    "Influenced by any interest groups",
+    "Easily understandable"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W12-05",
+   "week": 12,
+   "topic": "Official Assignment Week 12 (2026)",
+   "difficulty": "official",
+   "text": "A measure of how much of earth's resources we are using is called ecological footprint?",
+   "explanation": "True: this statement is correct according to the highlighted official key.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 12 (2026)"
+   ],
+   "assignment": 12,
+   "format": "tf",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W12-06",
+   "week": 12,
+   "topic": "Official Assignment Week 12 (2026)",
+   "difficulty": "official",
+   "text": "OECD stands for ______.",
+   "explanation": "Organisation for Economic Co-operation and Development.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 12 (2026)"
+   ],
+   "assignment": 12,
+   "format": "mcq",
+   "options": [
+    "Organisation for Economic Co-ordination and Development",
+    "Organisation for Ecological Co-operation and Development",
+    "Organisation for Ecological Co-ordination and Development",
+    "Organisation for Economic Co-operation and Development"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "id": "O26-W12-07",
+   "week": 12,
+   "topic": "Official Assignment Week 12 (2026)",
+   "difficulty": "official",
+   "text": "In STAN, the 'box made of dash lines' represents ______.",
+   "explanation": "A dashed box is the system boundary.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 12 (2026)"
+   ],
+   "assignment": 12,
+   "format": "mcq",
+   "options": [
+    "Process",
+    "Flow",
+    "System boundary",
+    "Text box"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "id": "O26-W12-08",
+   "week": 12,
+   "topic": "Official Assignment Week 12 (2026)",
+   "difficulty": "official",
+   "text": "In STAN, 'broad and dark lines' represent ______.",
+   "explanation": "Line width indicates flow magnitude.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 12 (2026)"
+   ],
+   "assignment": 12,
+   "format": "mcq",
+   "options": [
+    "Higher flow",
+    "Input flows",
+    "Output flows",
+    "System boundary"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "id": "O26-W12-09",
+   "week": 12,
+   "topic": "Official Assignment Week 12 (2026)",
+   "difficulty": "official",
+   "text": "The Environmental Performance Index (EPI) was developed by ______?",
+   "explanation": "EPI is produced by Yale (with Columbia).",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 12 (2026)"
+   ],
+   "assignment": 12,
+   "format": "mcq",
+   "options": [
+    "University of Nottingham",
+    "Yale University",
+    "Technical University, Wien",
+    "University of Chicago"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "id": "O26-W12-10",
+   "week": 12,
+   "topic": "Official Assignment Week 12 (2026)",
+   "difficulty": "official",
+   "text": "International institutions which provide assistance as grants/loan to developing countries are called Multilateral development banks.",
+   "explanation": "True: this statement is correct according to the highlighted official key.",
+   "source": {
+    "type": "assignment",
+    "label": "Official NPTEL assignment (2026)",
+    "year": 2026,
+    "url": "https://nptel.ac.in/courses/105107210",
+    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+   },
+   "related": [
+    "Assignment 12 (2026)"
+   ],
+   "assignment": 12,
+   "format": "tf",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    0
    ]
   }
  ],

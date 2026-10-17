@@ -5,12 +5,11 @@ First version used the official syllabus PDF (archive.nptel.ac.in/content/syllab
 1 Intro & sustainability · 2 Impacts of transportation · 3 EIA · 4 Global EIA practice & case studies (MAHSR) · 5 Land use, zoning, TOD · 6 TOD case studies & 4-step planning · 7 Contemporary planning, TSM & LCA · 8 MFA, circular economy, emission modelling · 9 Dispersion, noise models, policies (NCAP) · 10 Decarbonisation, fuels, EVs, Hyperloop, BRTS · 11 MRT, airports, water transport, NMT, openLCA · 12 openLCA, STAN, indicators, STAR.
 Lecture titles come from the portal sidebar; the lecture *content* itself was not available, so notes are built from those titles, the assignment keys, and standard references.
 
-## Official assignment questions (category A) - 125
-- Source: NPTEL portal screenshots of Assignments 0-12, Jul-Oct 2021 session (`assignments/raw/p-000..012.png`, from the user's PDF). Question text and the "Accepted Answers" were transcribed by hand. Each is labelled "Official NPTEL assignment (Jul-Oct 2021)", verification "transcribed-from-official-portal-screenshots".
-- Assignment 0 (course intro, 5 questions) is filed under Week 1.
-- Not independently re-verified. Items with doubtful keys are flagged in their explanations: A1-Q10 (needs graph, not reproduced), A8-Q4 (0 points on the portal), A10-Q2 (negatively worded; key looks odd), A5-Q10, A9-Q1/Q3/Q9, A11-Q2/Q3 (taken as "per key").
-- Not included: the 23-question "live session Week 2 practice assignment" (a different PDF, from an NPTEL live-session slide deck; overlaps Assignment 2).
-- Final-exam PYQs: none available -> 0. Other sessions' assignments (2022-2025): not available -> none included.
+## Official assignment questions (category A) - 233
+**2021 session (125)**: transcribed by hand from NPTEL portal screenshots of Assignments 0-12 (`assignments/raw/`); answers are the portal's "Accepted Answers". A few keys look odd and are flagged in their explanations (A1-Q10 needs a graph; A8-Q4 was 0 points; A10-Q2 negatively worded).
+**2026 session (120 questions; 108 new + 12 identical to 2021 questions, merged and shown as "2021 & 2026")**: transcribed from the 12 weekly assignment PDFs supplied by the user (`question banks/`, not published). The correct option is highlighted yellow in each PDF; answers were read from those highlights programmatically (119 of 120 found automatically; the remaining one, Week 1 Q3, confirmed by hand) and compared with my own independent answers: 118 agreed, 2 differed and the highlighted key was used (Week 2 Q4 -> 2307.69; Week 10 Q2 -> "Methanol from natural gas", whose wording looks inverted). Explanations are written by the assistant, not by NPTEL.
+Graph question (Week 1 Q10) is included without the graph.
+Not included: the 23-question live-session practice deck; final-exam PYQs (none available); 2022-2025 assignments (not supplied).
 
 ## Generated practice questions (category D) - 280
 Newly written for this app, never labelled official (no year/URL). Not reviewed by a second person.
