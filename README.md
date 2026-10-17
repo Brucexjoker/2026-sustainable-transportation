@@ -32,3 +32,12 @@ Official material (assignments/PYQs) must carry real `source` metadata (type, ye
 
 ## Adding cross-device sync later
 Needs a backend (e.g. Supabase: auth + `attempts`, `bookmarks`, `progress` tables with row-level security; answer keys in a read-only table). Not implemented here.
+
+## Adding official assignments for 2022-2025
+Create `content/official2022.py` (or 2023/2024/2025) with `P = [...]` in the same tuple format as `content/official2026.py`:
+`(week, q_no, text, [options], 'a'|'b'|'c'|'d'|'e', 'key', explanation)`, optionally `HOW = "where it came from"`. Then run `python3 content/build.py` and `python3 tests/check_data.py`. The build merges questions identical to an earlier year (listed under both years) and warns if the two years' keys disagree. The "Official assignments (by year)" page already has tabs for 2021-2026.
+
+## Question categories
+- **Official assignments** (green star): 2021 and 2026 so far, grouped by year on the Official page.
+- **Self-made practice (reviewed)**: written for this app; answers re-checked in a second pass. Never labelled official.
+- Official final-exam PYQs: none available.

@@ -60,7 +60,7 @@ R.home = function () {
   var nextWeek = 1; for (var i = 1; i <= 12; i++) { if (!S.completed[i]) { nextWeek = i; break; } }
   var g = D.weeks.map(function (w) { var s = stats(function (a) { return a.week == w.id; }); return '<a class="weekcard" href="#/week/' + w.id + '"><b>Week ' + w.id + '</b>' + (S.completed[w.id] ? ' ✔' : '') + '<div>' + h(w.title) + '</div><div class="bar"><i style="width:' + (S.completed[w.id] ? 100 : 0) + '%"></i></div><div class="mut">' + (s.n ? 'Accuracy ' + s.acc + '% (' + s.n + ' attempts)' : 'No attempts yet') + '</div></a>'; }).join('');
   render('<h1>' + h(D.course.name) + '</h1><p class="mut">' + h(D.course.institute) + ' · ' + h(D.course.instructor) + ' · Course ' + h(D.course.code) + ' · 12 weeks. <b>Unofficial</b> study platform; not affiliated with NPTEL.</p>' +
-    '<div class="row"><a class="btn" href="#/week/' + nextWeek + '">Continue studying (Week ' + nextWeek + ')</a><a class="btn sec" href="#/quiz">Start practice quiz</a><a class="btn sec" href="#/mocks">Start mock examination</a><a class="btn sec" href="#/quiz?source=assignment">Official assignment practice (2021 &amp; 2026)</a></div>' +
+    '<div class="row"><a class="btn" href="#/week/' + nextWeek + '">Continue studying (Week ' + nextWeek + ')</a><a class="btn sec" href="#/quiz">Start practice quiz</a><a class="btn sec" href="#/mocks">Start mock examination</a><a class="btn sec" href="#/official">Official assignments by year</a><a class="btn sec" href="#/quiz?source=generated">Self-made practice</a></div>' +
     '<div class="grid"><div class="card"><div class="stat">' + done + ' / 12</div>weeks completed<div class="bar"><i style="width:' + pct(done, 12) + '%"></i></div></div>' +
     '<div class="card"><div class="stat">' + ALLQ.length + '</div>questions available<div class="mut">' + uniqAtt + ' attempted</div></div>' +
     '<div class="card"><div class="stat">' + (st.n ? st.acc + '%' : '-') + '</div>overall accuracy<div class="mut">' + st.c + ' correct of ' + st.n + ' answers</div></div>' +
@@ -106,15 +106,15 @@ R.quiz = function () {
     '<div><label for="ft">Topic</label><select id="ft"></select></div>' +
     '<div><label for="fd">Difficulty</label><select id="fd"><option value="">Any</option><option>easy</option><option>medium</option><option>hard</option></select></div>' +
     '<div><label for="ff">Question type</label><select id="ff"><option value="">Any</option><option value="mcq">Single-answer MCQ</option><option value="multi">Multiple-select</option><option value="tf">True / False</option><option value="ar">Assertion-reason</option><option value="num">Numerical</option></select></div>' +
-    '<div><label for="fs">Source</label><select id="fs"><option value="">Any</option><option value="assignment">Official assignments (2021 &amp; 2026)</option><option value="generated">Newly generated practice</option></select></div><div><label for="fn">Number of questions</label><input id="fn" type="number" min="1" max="100" value="10"></div>' +
+    '<div><label for="fs">Category</label><select id="fs"><option value="">Any</option><option value="assignment">Official assignments</option><option value="generated">Self-made practice (reviewed)</option></select></div><div><label for="fy">Official year</label><select id="fy"><option value="">Any</option>' + [2021, 2022, 2023, 2024, 2025, 2026].map(function (y) { return '<option>' + y + '</option>'; }).join('') + '</select></div><div><label for="fn">Number of questions</label><input id="fn" type="number" min="1" max="100" value="10"></div>' +
     '<div><label for="fm">Mode</label><select id="fm"><option value="practice">Practice (instant feedback)</option><option value="timed">Timed (answers at the end)</option></select></div>' +
     '<div><label for="fmin">Minutes (timed)</label><input id="fmin" type="number" min="1" max="180" value="15"></div>' +
     '</div><p id="avail" class="mut"></p><button class="btn" type="submit">Start quiz</button></form></div>');
   var fw = document.getElementById('fw'), ft = document.getElementById('ft');
   function fillTopics() { ft.innerHTML = '<option value="">All topics</option>' + topicsFor(fw.value).map(function (t) { return '<option>' + h(t) + '</option>'; }).join(''); upd(); }
-  function cfg() { return { week: fw.value, topic: ft.value, difficulty: document.getElementById('fd').value, format: document.getElementById('ff').value, source: document.getElementById('fs').value }; }
+  function cfg() { return { week: fw.value, topic: ft.value, difficulty: document.getElementById('fd').value, format: document.getElementById('ff').value, source: document.getElementById('fs').value, year: document.getElementById('fy').value }; }
   function upd() { document.getElementById('avail').textContent = filterQ(cfg()).length + ' questions match these filters.'; }
-  if (p.source) document.getElementById('fs').value = p.source; fw.onchange = fillTopics; ['ft', 'fd', 'ff', 'fs'].forEach(function (i) { document.getElementById(i).onchange = upd; }); fillTopics();
+  if (p.source) document.getElementById('fs').value = p.source; if (p.year) document.getElementById('fy').value = p.year; fw.onchange = fillTopics; ['ft', 'fd', 'ff', 'fs', 'fy'].forEach(function (i) { document.getElementById(i).onchange = upd; }); fillTopics();
   document.getElementById('qf').onsubmit = function (e) {
     e.preventDefault(); var c = cfg(); c.count = parseInt(document.getElementById('fn').value, 10); c.mode = document.getElementById('fm').value; c.minutes = parseInt(document.getElementById('fmin').value, 10);
     if (!(c.count >= 1)) return toast('Enter a valid number of questions');
@@ -122,7 +122,7 @@ R.quiz = function () {
     c.title = 'Custom quiz' + (c.week ? ' (Week ' + c.week + ')' : ''); startQuiz(c);
   };
 };
-function filterQ(c) { return ALLQ.filter(function (q) { return (!c.week || q.week == c.week) && (!c.topic || q.topic === c.topic) && (!c.difficulty || q.difficulty === c.difficulty) && (!c.format || q.format === c.format) && (!c.source || q.source.type === c.source); }); }
+function filterQ(c) { return ALLQ.filter(function (q) { return (!c.week || q.week == c.week) && (!c.topic || q.topic === c.topic) && (!c.difficulty || q.difficulty === c.difficulty) && (!c.format || q.format === c.format) && (!c.source || q.source.type === c.source) && (!c.year || (q.years || []).indexOf(+c.year) > -1); }); }
 
 /* ---------- quiz engine (used by quizzes, mocks and retries) ---------- */
 var Z = null; // active session
@@ -261,18 +261,18 @@ R.flashcards = function () {
 
 /* ---------- question bank, search, filters ---------- */
 function bankFilterUI(f) {
-  return '<div class="card"><div class="formgrid"><div><label for="bq">Keyword</label><input id="bq" type="search" value="' + h(f.q || '') + '"></div><div><label for="bw">Week</label><select id="bw">' + weekOpts(f.week) + '</select></div><div><label for="bf">Format</label><select id="bf"><option value="">Any</option><option value="mcq">MCQ</option><option value="multi">Multiple-select</option><option value="tf">True/False</option><option value="ar">Assertion-reason</option><option value="num">Numerical</option></select></div><div><label for="bd">Difficulty</label><select id="bd"><option value="">Any</option><option>easy</option><option>medium</option><option>hard</option></select></div><div><label for="bs">Source type</label><select id="bs"><option value="">Any</option><option value="pyq">Official PYQ</option><option value="assignment">Official assignment</option><option value="generated">Newly generated practice</option></select></div><div><label for="by">Year</label><input id="by" type="text" placeholder="e.g. 2023" inputmode="numeric"></div></div></div>';
+  return '<div class="card"><div class="formgrid"><div><label for="bq">Keyword</label><input id="bq" type="search" value="' + h(f.q || '') + '"></div><div><label for="bw">Week</label><select id="bw">' + weekOpts(f.week) + '</select></div><div><label for="bf">Format</label><select id="bf"><option value="">Any</option><option value="mcq">MCQ</option><option value="multi">Multiple-select</option><option value="tf">True/False</option><option value="ar">Assertion-reason</option><option value="num">Numerical</option></select></div><div><label for="bd">Difficulty</label><select id="bd"><option value="">Any</option><option>easy</option><option>medium</option><option>hard</option></select></div><div><label for="bs">Source type</label><select id="bs"><option value="">Any</option><option value="pyq">Official final-exam PYQ</option><option value="assignment">Official assignment</option><option value="generated">Self-made practice (reviewed)</option></select></div><div><label for="by">Year</label><input id="by" type="text" placeholder="e.g. 2023" inputmode="numeric"></div></div></div>';
 }
 function matches(q, f) {
   var s = (f.q || '').toLowerCase();
   if (s) { var hay = (q.text + ' ' + q.topic + ' ' + q.explanation + ' ' + (q.options || []).join(' ') + ' ' + (q.formula || '') + ' week ' + q.week).toLowerCase(); if (!s.split(/\s+/).every(function (t) { return hay.indexOf(t) > -1; })) return false; }
   if (f.week && q.week != f.week) return false; if (f.format && q.format !== f.format) return false; if (f.diff && q.difficulty !== f.diff) return false;
   if (f.src) { var t = q.source.type === 'generated' ? 'generated' : q.source.type; if (t !== f.src) return false; }
-  if (f.year && String(q.source.year || '') !== f.year.trim() && String(q.source.also_year || '') !== f.year.trim()) return false; return true;
+  if (f.year && (q.years || []).indexOf(+f.year.trim()) < 0) return false; return true;
 }
 R.bank = function () {
-  var p = qparam(); var f = { q: p.q || '', week: p.week || '' };
-  render('<h1>Question bank</h1><p class="mut">' + ALLQ.length + ' questions: ' + ALLQ.filter(function (q) { return q.source.type === 'assignment'; }).length + ' <b>official NPTEL assignment questions (2021 and 2026 sessions)</b> and ' + ALLQ.filter(function (q) { return q.source.type === 'generated'; }).length + ' newly generated practice questions. No final-exam PYQs are included (none were available). <a href="#/about">Sources</a></p>' + bankFilterUI(f) + '<div class="row"><button class="btn sec" id="exp">Export filtered as CSV</button></div><p id="cnt" class="mut"></p><div id="bl"></div>');
+  var p = qparam(); var f = { q: p.q || '', week: p.week || '', src: p.source || '' };
+  render('<h1>Question bank</h1><p class="mut">' + ALLQ.length + ' questions: ' + ALLQ.filter(function (q) { return q.source.type === 'assignment'; }).length + ' <b>official NPTEL assignment questions (2021 and 2026 sessions)</b> and ' + ALLQ.filter(function (q) { return q.source.type === 'generated'; }).length + ' self-made practice questions (reviewed twice, not official). No final-exam PYQs are included (none were available). <a href="#/about">Sources</a></p>' + bankFilterUI(f) + '<div class="row"><button class="btn sec" id="exp">Export filtered as CSV</button></div><p id="cnt" class="mut"></p><div id="bl"></div>');
   function draw() {
     f = { q: document.getElementById('bq').value, week: document.getElementById('bw').value, format: document.getElementById('bf').value, diff: document.getElementById('bd').value, src: document.getElementById('bs').value, year: document.getElementById('by').value };
     var res = ALLQ.filter(function (q) { return matches(q, f); }); draw.res = res;
@@ -281,7 +281,7 @@ R.bank = function () {
     $main.querySelectorAll('[data-bm]').forEach(function (b) { b.onclick = function () { toggleBm(b.dataset.bm); draw(); }; });
     $main.querySelectorAll('[data-rev]').forEach(function (b) { b.onclick = function () { var d = b.nextElementSibling; d.hidden = !d.hidden; }; });
   }
-  ['bq', 'bw', 'bf', 'bd', 'bs', 'by'].forEach(function (i) { var e = document.getElementById(i); e.oninput = draw; e.onchange = draw; }); document.getElementById('bw').value = f.week; draw();
+  ['bq', 'bw', 'bf', 'bd', 'bs', 'by'].forEach(function (i) { var e = document.getElementById(i); e.oninput = draw; e.onchange = draw; }); document.getElementById('bw').value = f.week; if (f.src) document.getElementById('bs').value = f.src; draw();
   document.getElementById('exp').onclick = function () { exportQuestions(draw.res, 'question-bank.csv'); };
 };
 function ansText(q) { return q.format === 'num' ? q.answer + ' ' + q.unit : q.answer.map(function (a) { return q.options[a]; }).join('; '); }
@@ -346,11 +346,37 @@ R.progress = function () {
   document.getElementById('e5').onclick = function () { if (confirm('Erase all progress stored in this browser?')) { S = blank(); save(); toast('Progress reset'); R.progress(); } };
 };
 
+
+/* ---------- official assignments by year ---------- */
+var YEARS = [2021, 2022, 2023, 2024, 2025, 2026];
+R.official = function (arg) {
+  var yr = parseInt(arg, 10); if (YEARS.indexOf(yr) < 0) yr = 2021;
+  var all = ALLQ.filter(function (q) { return q.source.type === 'assignment'; });
+  var tabs = YEARS.map(function (y) { var n = all.filter(function (q) { return q.years.indexOf(y) > -1; }).length; return '<a class="btn' + (y === yr ? '' : ' sec') + '" href="#/official/' + y + '">' + y + ' (' + n + ')</a>'; }).join('');
+  var qs = all.filter(function (q) { return q.years.indexOf(yr) > -1; });
+  var html = '<h1>Official weekly assignments</h1><p class="mut">Questions from NPTEL\'s own weekly assignments for this course, grouped by year. Only 2021 and 2026 have been added so far; 2022-2025 can be added later (see README). Questions that appeared in more than one year are listed under each year.</p><div class="row">' + tabs + '</div>';
+  if (!qs.length) html += '<div class="card"><b>' + yr + ': not added yet.</b><p class="mut">No questions for this year have been supplied. When you have the ' + yr + ' assignment PDFs or screenshots, they can be added with their year and answer key.</p></div>';
+  else {
+    html += '<div class="row"><button class="btn" id="oy">Practice all ' + yr + ' (' + qs.length + ')</button><button class="btn sec" id="oc">Export ' + yr + ' as CSV</button></div>';
+    for (var w = 1; w <= 12; w++) {
+      var wq = qs.filter(function (q) { return q.week === w; });
+      if (!wq.length) continue;
+      html += '<details class="card"><summary><b>Week ' + w + ' - ' + h(D.weeks[w - 1].title) + '</b> <span class="tag">' + wq.length + ' questions</span></summary><div class="row"><button class="btn" data-pw="' + w + '">Practice Week ' + w + ' (' + yr + ')</button></div>' + wq.map(qCard).join('') + '</details>';
+    }
+  }
+  render(html);
+  var oy = document.getElementById('oy'); if (oy) oy.onclick = function () { startQuiz({ ids: qs.map(function (q) { return q.id; }), mode: 'practice', title: 'Official ' + yr + ' assignments' }); };
+  var oc = document.getElementById('oc'); if (oc) oc.onclick = function () { exportQuestions(qs, 'official-' + yr + '.csv'); };
+  $main.querySelectorAll('[data-pw]').forEach(function (b) { b.onclick = function () { var w = +b.dataset.pw; startQuiz({ ids: qs.filter(function (q) { return q.week === w; }).map(function (q) { return q.id; }), mode: 'practice', title: 'Official ' + yr + ' - Week ' + w }); }; });
+  $main.querySelectorAll('[data-bm]').forEach(function (b) { b.onclick = function () { toggleBm(b.dataset.bm); b.textContent = S.bookmarks.indexOf(b.dataset.bm) > -1 ? 'Remove bookmark' : 'Bookmark'; }; });
+  $main.querySelectorAll('[data-rev]').forEach(function (b) { b.onclick = function () { var d = b.nextElementSibling; d.hidden = !d.hidden; }; });
+};
+
 /* ---------- about ---------- */
 R.about = function () {
   var c = D.course;
   render('<h1>Sources &amp; about</h1><div class="card"><h2>Course</h2><p>' + h(c.name) + ' (' + h(c.code) + '), ' + h(c.institute) + ', ' + h(c.instructor) + '.<br><a href="' + c.url + '" target="_blank" rel="noopener">Official course page</a> · <a href="' + c.syllabus_pdf + '" target="_blank" rel="noopener">Official syllabus PDF</a> (week titles in this app are taken from this PDF).</p></div>' +
-    '<div class="card"><h2>Question provenance</h2><table><tr><th>Category</th><th>Count</th></tr><tr><td>A. Official assignment questions (2021 session from portal screenshots; 2026 session from the assignment PDFs)</td><td>' + ALLQ.filter(function (q) { return q.source.type === 'assignment'; }).length + '</td></tr><tr><td>B. Verified official final-exam PYQs</td><td>0</td></tr><tr><td>C. Adapted lecture-based questions</td><td>0</td></tr><tr><td>D. Newly generated practice questions</td><td>' + ALLQ.filter(function (q) { return q.source.type === 'generated'; }).length + '</td></tr></table><p>Official assignment questions are from the Jul-Oct 2021 session (Assignments 0-12) with the accepted answers shown on the NPTEL portal, copied by hand from screenshots; a few keys look questionable and are flagged in their explanations. No final-exam papers or other sessions\' assignments were available, so there are no PYQs and nothing is labelled as one. Generated questions are never labelled official.</p></div>' +
+    '<div class="card"><h2>Question provenance</h2><table><tr><th>Category</th><th>Count</th></tr><tr><td>A. Official assignment questions (2021 session from portal screenshots; 2026 session from the assignment PDFs)</td><td>' + ALLQ.filter(function (q) { return q.source.type === 'assignment'; }).length + '</td></tr><tr><td>B. Verified official final-exam PYQs</td><td>0</td></tr><tr><td>C. Adapted lecture-based questions</td><td>0</td></tr><tr><td>D. Self-made practice questions (reviewed, not official)</td><td>' + ALLQ.filter(function (q) { return q.source.type === 'generated'; }).length + '</td></tr></table><p>Official assignment questions are from the Jul-Oct 2021 session (Assignments 0-12) with the accepted answers shown on the NPTEL portal, copied by hand from screenshots; a few keys look questionable and are flagged in their explanations. No final-exam papers or other sessions\' assignments were available, so there are no PYQs and nothing is labelled as one. Self-made questions are never labelled official.</p></div>' +
     '<div class="card"><h2>Limitations</h2><ul><li>Unofficial; not affiliated with NPTEL or IIT Roorkee.</li><li>Notes are original summaries from the official syllabus and standard references, not lecture transcripts. Verify details against the lectures.</li><li>Mock tests are unofficial and do not predict the real exam.</li><li>Progress is local to one browser; there is no account system or cross-device sync in this build.</li><li>Offline reading works after the first online load only if your browser supports service workers on your hosting origin.</li></ul></div>');
 };
 R.notfound = function () { render('<h1>Page not found</h1><p><a href="#/">Go to dashboard</a></p>'); };

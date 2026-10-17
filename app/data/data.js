@@ -1772,10 +1772,10 @@ window.DATA = {
    "explanation": "EIA is a preventive, predictive tool applied before approval so that impacts can be avoided or reduced at design stage.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA basics"
@@ -1788,7 +1788,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W03-002",
@@ -1800,10 +1801,10 @@ window.DATA = {
    "explanation": "Screening decides whether EIA is needed; scoping defines what the EIA will cover.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA process"
@@ -1816,7 +1817,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W03-003",
@@ -1828,10 +1830,10 @@ window.DATA = {
    "explanation": "Screening comes first, then scoping, baseline data, impact prediction, mitigation planning and finally monitoring.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA process"
@@ -1844,11 +1846,12 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-004",
-   "week": 3,
+   "id": "Q-W01-001",
+   "week": 1,
    "topic": "Transport basics",
    "format": "tf",
    "difficulty": "easy",
@@ -1856,10 +1859,10 @@ window.DATA = {
    "explanation": "Demand for transport is derived from the need to participate in activities such as work, education and shopping.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Transport basics"
@@ -1870,10 +1873,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-005",
+   "id": "Q-W03-004",
    "week": 3,
    "topic": "EIA legal",
    "format": "mcq",
@@ -1882,10 +1886,10 @@ window.DATA = {
    "explanation": "Category A projects are appraised by the central Expert Appraisal Committee; Category B by state-level authorities.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA legal"
@@ -1898,10 +1902,11 @@ window.DATA = {
    ],
    "answer": [
     2
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-006",
+   "id": "Q-W03-005",
    "week": 3,
    "topic": "EIA concept",
    "format": "multi",
@@ -1910,10 +1915,10 @@ window.DATA = {
    "explanation": "EIA is broad (not only air), preventive, compares alternatives and includes consultation.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA concept"
@@ -1928,10 +1933,11 @@ window.DATA = {
     0,
     1,
     3
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-007",
+   "id": "Q-W03-006",
    "week": 3,
    "topic": "EIA concept",
    "format": "ar",
@@ -1940,10 +1946,10 @@ window.DATA = {
    "explanation": "Early integration allows avoidance by design; EIA's preventive timing is the reason this is possible.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA concept"
@@ -1956,10 +1962,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-008",
+   "id": "Q-W03-007",
    "week": 3,
    "topic": "EIA concept",
    "format": "mcq",
@@ -1968,10 +1975,10 @@ window.DATA = {
    "explanation": "Natural change would occur anyway; the project impact is the difference from the future no-project scenario.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA concept"
@@ -1984,7 +1991,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-001",
@@ -1996,10 +2004,10 @@ window.DATA = {
    "explanation": "Zoning permits particular uses and sets standards such as FAR, height and setbacks.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Zoning"
@@ -2012,7 +2020,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-002",
@@ -2024,10 +2033,10 @@ window.DATA = {
    "explanation": "FAR = total floor area ÷ plot area.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "FAR"
@@ -2040,7 +2049,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-003",
@@ -2052,10 +2062,10 @@ window.DATA = {
    "explanation": "1.5 × 800 = 1200 m².",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "FAR"
@@ -2068,7 +2078,8 @@ window.DATA = {
    ],
    "answer": [
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-004",
@@ -2080,10 +2091,10 @@ window.DATA = {
    "explanation": "Locating homes, jobs and services together reduces distance and favours walking and cycling.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Land use"
@@ -2094,7 +2105,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-005",
@@ -2106,10 +2118,10 @@ window.DATA = {
    "explanation": "Spread-out single-use development makes destinations far apart and poorly served by transit.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Land use"
@@ -2122,7 +2134,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-006",
@@ -2134,10 +2147,10 @@ window.DATA = {
    "explanation": "Residential, commercial and industrial are standard categories; 'cryptographic' is not.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Zoning"
@@ -2152,7 +2165,8 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-007",
@@ -2164,10 +2178,10 @@ window.DATA = {
    "explanation": "Statutory master plans typically cover ~20 years with periodic review.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Master plan"
@@ -2180,7 +2194,8 @@ window.DATA = {
    ],
    "answer": [
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-008",
@@ -2192,10 +2207,10 @@ window.DATA = {
    "explanation": "Higher density near stations increases the catchment population, which supports frequent service.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Land use"
@@ -2208,7 +2223,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W06-001",
@@ -2220,10 +2236,10 @@ window.DATA = {
    "explanation": "The steps are generation, distribution, modal split and assignment.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Four-step model"
@@ -2236,7 +2252,8 @@ window.DATA = {
    ],
    "answer": [
     3
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W06-002",
@@ -2248,10 +2265,10 @@ window.DATA = {
    "explanation": "Modal split divides trips among modes.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Four-step model"
@@ -2264,7 +2281,8 @@ window.DATA = {
    ],
    "answer": [
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W06-003",
@@ -2276,10 +2294,10 @@ window.DATA = {
    "explanation": "Gravity models distribute produced trips among destinations according to attractions and travel cost.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Four-step model"
@@ -2292,7 +2310,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W06-004",
@@ -2304,10 +2323,10 @@ window.DATA = {
    "explanation": "Sustainable policy prioritises walking, cycling and public transport.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Policy"
@@ -2320,7 +2339,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W06-005",
@@ -2332,10 +2352,10 @@ window.DATA = {
    "explanation": "Lower travel costs attract new trips and longer trips, partly offsetting capacity gains.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Policy"
@@ -2346,11 +2366,12 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W06-006",
-   "week": 6,
+   "id": "Q-W10-001",
+   "week": 10,
    "topic": "Policy",
    "format": "multi",
    "difficulty": "medium",
@@ -2358,10 +2379,10 @@ window.DATA = {
    "explanation": "ASI has three strategies; increasing car use is contrary.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Policy"
@@ -2376,10 +2397,11 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W06-007",
+   "id": "Q-W06-006",
    "week": 6,
    "topic": "Planning",
    "format": "mcq",
@@ -2388,10 +2410,10 @@ window.DATA = {
    "explanation": "Regional planning covers longer-distance passenger and freight links and corridors.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Planning"
@@ -2404,7 +2426,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-001",
@@ -2416,10 +2439,10 @@ window.DATA = {
    "explanation": "TDM influences demand and mode choice through pricing and regulation.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Demand"
@@ -2432,7 +2455,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W02-001",
@@ -2444,10 +2468,10 @@ window.DATA = {
    "explanation": "Fine particles penetrate deep into lungs and bloodstream.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Human impacts"
@@ -2460,7 +2484,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W02-002",
@@ -2472,10 +2497,10 @@ window.DATA = {
    "explanation": "Linear infrastructure often fragments habitats.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Ecology"
@@ -2488,7 +2513,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W02-003",
@@ -2500,10 +2526,10 @@ window.DATA = {
    "explanation": "Crossings and fencing guide animals safely; higher speeds raise collision risk.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Ecology"
@@ -2518,7 +2544,8 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W02-004",
@@ -2530,10 +2557,10 @@ window.DATA = {
    "explanation": "Ozone forms by photochemical reactions of precursors.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Air"
@@ -2546,7 +2573,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W02-005",
@@ -2558,10 +2586,10 @@ window.DATA = {
    "explanation": "Wear of tyres, brakes and fuel leaks contribute solids, metals and hydrocarbons.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Water"
@@ -2574,7 +2602,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W02-006",
@@ -2586,10 +2615,10 @@ window.DATA = {
    "explanation": "CO2 traps outgoing heat; transport is a major source.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Climate"
@@ -2600,7 +2629,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W02-007",
@@ -2612,10 +2642,10 @@ window.DATA = {
    "explanation": "Roads and rails can split communities and habitats.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Impacts"
@@ -2628,7 +2658,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W02-008",
@@ -2640,10 +2671,10 @@ window.DATA = {
    "explanation": "Construction activities have their own impacts that must be assessed and mitigated.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Impacts"
@@ -2656,10 +2687,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-009",
+   "id": "Q-W03-008",
    "week": 3,
    "topic": "Baseline",
    "format": "mcq",
@@ -2668,10 +2700,10 @@ window.DATA = {
    "explanation": "Without baseline, impacts cannot be quantified.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Baseline"
@@ -2684,10 +2716,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-010",
+   "id": "Q-W03-009",
    "week": 3,
    "topic": "Baseline",
    "format": "mcq",
@@ -2696,10 +2729,10 @@ window.DATA = {
    "explanation": "Primary data come from field measurement; secondary from existing records.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Baseline"
@@ -2712,10 +2745,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-011",
+   "id": "Q-W03-010",
    "week": 3,
    "topic": "Water quality",
    "format": "mcq",
@@ -2724,10 +2758,10 @@ window.DATA = {
    "explanation": "BOD measures oxygen demand from decomposing organic matter.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Water quality"
@@ -2740,10 +2774,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-012",
+   "id": "Q-W03-011",
    "week": 3,
    "topic": "Water quality",
    "format": "mcq",
@@ -2752,10 +2787,10 @@ window.DATA = {
    "explanation": "Fish and other organisms need DO; organic load depletes it.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Water quality"
@@ -2768,10 +2803,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-013",
+   "id": "Q-W03-012",
    "week": 3,
    "topic": "Baseline",
    "format": "tf",
@@ -2780,10 +2816,10 @@ window.DATA = {
    "explanation": "Environmental parameters vary with season and meteorology.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Baseline"
@@ -2794,10 +2830,11 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-014",
+   "id": "Q-W03-013",
    "week": 3,
    "topic": "Air",
    "format": "multi",
@@ -2806,10 +2843,10 @@ window.DATA = {
    "explanation": "PM, SO2, NOx, CO and others are standard; sunset time is not a pollutant.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Air"
@@ -2824,10 +2861,11 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-015",
+   "id": "Q-W03-014",
    "week": 3,
    "topic": "Units",
    "format": "mcq",
@@ -2836,10 +2874,10 @@ window.DATA = {
    "explanation": "1 mg/L = 10⁻³ g / 10⁻³ m³ = 1 g/m³.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Units"
@@ -2852,10 +2890,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-016",
+   "id": "Q-W03-015",
    "week": 3,
    "topic": "Baseline",
    "format": "mcq",
@@ -2864,10 +2903,10 @@ window.DATA = {
    "explanation": "Siting must represent exposure and the influence of sources.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Baseline"
@@ -2880,7 +2919,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W09-001",
@@ -2892,10 +2932,10 @@ window.DATA = {
    "explanation": "Doubling intensity adds 10 log 2 ≈ 3 dB.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
@@ -2908,7 +2948,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W09-002",
@@ -2920,10 +2961,10 @@ window.DATA = {
    "explanation": "Inverse-square law gives 20 log 2 ≈ 6 dB.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
@@ -2936,7 +2977,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W09-003",
@@ -2948,10 +2990,10 @@ window.DATA = {
    "explanation": "Cylindrical spreading gives 10 log 2 ≈ 3 dB.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
@@ -2964,7 +3006,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W09-004",
@@ -2976,10 +3019,10 @@ window.DATA = {
    "explanation": "Decibels are logarithmic; add intensities (energies) then convert back.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
@@ -2990,7 +3033,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W09-005",
@@ -3002,10 +3046,10 @@ window.DATA = {
    "explanation": "Leq is the energy-equivalent continuous level.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
@@ -3018,7 +3062,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W09-006",
@@ -3030,10 +3075,10 @@ window.DATA = {
    "explanation": "1000 × 10 × 2 = 20,000 g = 20 kg.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Air"
@@ -3046,7 +3091,8 @@ window.DATA = {
    ],
    "answer": [
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W09-007",
@@ -3058,10 +3104,10 @@ window.DATA = {
    "explanation": "Q, u and dispersion parameters from stability class are essential.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Air"
@@ -3076,7 +3122,8 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W09-008",
@@ -3088,10 +3135,10 @@ window.DATA = {
    "explanation": "Load = C × V (with consistent units).",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Water"
@@ -3104,7 +3151,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-001",
@@ -3116,10 +3164,10 @@ window.DATA = {
    "explanation": "BAU is the reference scenario with existing trends and policies.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Scenarios"
@@ -3132,7 +3180,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-002",
@@ -3144,10 +3193,10 @@ window.DATA = {
    "explanation": "Comparison is against the same-year BAU projection.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Scenarios"
@@ -3160,7 +3209,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-003",
@@ -3172,10 +3222,10 @@ window.DATA = {
    "explanation": "Activity-based approach uses fleet, activity and factors.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Inventory"
@@ -3188,7 +3238,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-004",
@@ -3200,10 +3251,10 @@ window.DATA = {
    "explanation": "It identifies the most influential assumptions.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Sensitivity"
@@ -3214,7 +3265,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-005",
@@ -3226,10 +3278,10 @@ window.DATA = {
    "explanation": "Occupancy matters; a nearly empty bus may not beat a full car.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Mode shift"
@@ -3242,7 +3294,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-006",
@@ -3254,10 +3307,10 @@ window.DATA = {
    "explanation": "500 × 2.7 = 1350 kg CO2.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Inventory"
@@ -3270,7 +3323,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-007",
@@ -3282,10 +3336,10 @@ window.DATA = {
    "explanation": "Uncertainty is the reason ranges are more honest than single values.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Uncertainty"
@@ -3298,7 +3352,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-008",
@@ -3310,10 +3365,10 @@ window.DATA = {
    "explanation": "Policy scenarios test interventions; ignoring forecasts is not a scenario.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Scenarios"
@@ -3328,10 +3383,11 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-017",
+   "id": "Q-W03-016",
    "week": 3,
    "topic": "Impact types",
    "format": "mcq",
@@ -3340,10 +3396,10 @@ window.DATA = {
    "explanation": "Induced development is a secondary (indirect) effect.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Impact types"
@@ -3356,10 +3412,11 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-018",
+   "id": "Q-W03-017",
    "week": 3,
    "topic": "Impact types",
    "format": "mcq",
@@ -3368,10 +3425,10 @@ window.DATA = {
    "explanation": "Synergy implies amplification through interaction.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Impact types"
@@ -3384,10 +3441,11 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-019",
+   "id": "Q-W03-018",
    "week": 3,
    "topic": "Methods",
    "format": "mcq",
@@ -3396,10 +3454,10 @@ window.DATA = {
    "explanation": "Networks show cause–effect linkages across impacts.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Methods"
@@ -3412,10 +3470,11 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-020",
+   "id": "Q-W03-019",
    "week": 3,
    "topic": "Methods",
    "format": "mcq",
@@ -3424,10 +3483,10 @@ window.DATA = {
    "explanation": "It scores magnitude and importance for each action–factor cell.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Methods"
@@ -3440,10 +3499,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-021",
+   "id": "Q-W03-020",
    "week": 3,
    "topic": "Significance",
    "format": "multi",
@@ -3452,10 +3512,10 @@ window.DATA = {
    "explanation": "Also extent, sensitivity of receptor and legal limits.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Significance"
@@ -3470,10 +3530,11 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-022",
+   "id": "Q-W03-021",
    "week": 3,
    "topic": "Cumulative",
    "format": "tf",
@@ -3482,10 +3543,10 @@ window.DATA = {
    "explanation": "That is the definition.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Cumulative"
@@ -3496,10 +3557,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-023",
+   "id": "Q-W03-022",
    "week": 3,
    "topic": "Methods",
    "format": "tf",
@@ -3508,10 +3570,10 @@ window.DATA = {
    "explanation": "Checklists list items but do not show interrelationships.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Methods"
@@ -3522,10 +3584,11 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-024",
+   "id": "Q-W03-023",
    "week": 3,
    "topic": "Impact types",
    "format": "ar",
@@ -3534,10 +3597,10 @@ window.DATA = {
    "explanation": "Induced changes can extend widely.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Impact types"
@@ -3550,7 +3613,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-002",
@@ -3562,10 +3626,10 @@ window.DATA = {
    "explanation": "A DSS integrates data, models and interface.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "DSS"
@@ -3578,7 +3642,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-003",
@@ -3590,10 +3655,10 @@ window.DATA = {
    "explanation": "AHP converts pairwise judgments to weights.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "MCDA"
@@ -3606,7 +3671,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-004",
@@ -3618,10 +3684,10 @@ window.DATA = {
    "explanation": "Weights are subjective; test ranking robustness.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "MCDA"
@@ -3634,7 +3700,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-005",
@@ -3646,10 +3713,10 @@ window.DATA = {
    "explanation": "Overlay shows constraints and least-impact corridors.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "GIS"
@@ -3662,7 +3729,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-006",
@@ -3674,10 +3742,10 @@ window.DATA = {
    "explanation": "BCR>1 means discounted benefits exceed costs.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "CBA"
@@ -3690,7 +3758,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-007",
@@ -3702,10 +3771,10 @@ window.DATA = {
    "explanation": "300/240 = 1.25; 300−240 = 60.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "CBA"
@@ -3718,7 +3787,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-008",
@@ -3730,10 +3800,10 @@ window.DATA = {
    "explanation": "Economic efficiency does not ensure environmental acceptability.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "CBA"
@@ -3744,7 +3814,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-009",
@@ -3756,10 +3827,10 @@ window.DATA = {
    "explanation": "Sensitivity analysis is part of good practice.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "MCDA"
@@ -3774,7 +3845,8 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W02-009",
@@ -3786,10 +3858,10 @@ window.DATA = {
    "explanation": "Avoid, then minimise, restore, and finally offset.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Hierarchy"
@@ -3802,7 +3874,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W02-010",
@@ -3814,10 +3887,10 @@ window.DATA = {
    "explanation": "Source control is generally most effective, then path, then receiver.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise control"
@@ -3830,7 +3903,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W02-011",
@@ -3842,10 +3916,10 @@ window.DATA = {
    "explanation": "It interrupts the line of sight and diffracts sound.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise control"
@@ -3858,7 +3932,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W02-012",
@@ -3870,10 +3945,10 @@ window.DATA = {
    "explanation": "Wetting reduces dust emission.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Air"
@@ -3886,7 +3961,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W02-013",
@@ -3898,10 +3974,10 @@ window.DATA = {
    "explanation": "Cleaner fuel reduces particulate and other emissions.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Policy"
@@ -3912,7 +3988,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W02-014",
@@ -3924,10 +4001,10 @@ window.DATA = {
    "explanation": "EMPs must be specific, funded and monitored.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EMP"
@@ -3942,7 +4019,8 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W02-015",
@@ -3954,10 +4032,10 @@ window.DATA = {
    "explanation": "70/250 × 100 = 28%.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Calc"
@@ -3970,7 +4048,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W02-016",
@@ -3982,10 +4061,10 @@ window.DATA = {
    "explanation": "It is an offset, the last step of the hierarchy.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Ecology"
@@ -3998,10 +4077,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W01-001",
+   "id": "Q-W01-002",
    "week": 1,
    "topic": "Concept",
    "format": "mcq",
@@ -4010,10 +4090,10 @@ window.DATA = {
    "explanation": "Sustainability integrates all three.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Concept"
@@ -4026,7 +4106,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W11-001",
@@ -4038,10 +4119,10 @@ window.DATA = {
    "explanation": "Segregated right-of-way and quality stations raise speed and reliability.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Modes"
@@ -4054,7 +4135,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W11-002",
@@ -4066,10 +4148,10 @@ window.DATA = {
    "explanation": "Walking and cycling.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "NMT"
@@ -4082,10 +4164,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W10-001",
+   "id": "Q-W10-002",
    "week": 10,
    "topic": "EV",
    "format": "mcq",
@@ -4094,10 +4177,10 @@ window.DATA = {
    "explanation": "Coal-heavy grids give higher upstream emissions.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EV"
@@ -4110,10 +4193,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W10-002",
+   "id": "Q-W10-003",
    "week": 10,
    "topic": "EV",
    "format": "tf",
@@ -4122,10 +4206,10 @@ window.DATA = {
    "explanation": "Upstream electricity and manufacturing emissions exist.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EV"
@@ -4136,7 +4220,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W12-001",
@@ -4148,10 +4233,10 @@ window.DATA = {
    "explanation": "Billboards are not a sustainability indicator.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Indicators"
@@ -4166,7 +4251,8 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W11-003",
@@ -4178,10 +4264,10 @@ window.DATA = {
    "explanation": "They connect travellers to stations.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Last mile"
@@ -4194,10 +4280,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W10-003",
+   "id": "Q-W10-004",
    "week": 10,
    "topic": "Emerging",
    "format": "mcq",
@@ -4206,10 +4293,10 @@ window.DATA = {
    "explanation": "It has not been deployed at commercial scale.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Emerging"
@@ -4222,7 +4309,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-010",
@@ -4234,10 +4322,10 @@ window.DATA = {
    "explanation": "That is the standard structure.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "LCA"
@@ -4250,7 +4338,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-011",
@@ -4262,10 +4351,10 @@ window.DATA = {
    "explanation": "It allows fair comparison between alternatives.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "LCA"
@@ -4278,7 +4367,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-012",
@@ -4290,10 +4380,10 @@ window.DATA = {
    "explanation": "It covers the full life cycle.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "LCA"
@@ -4306,7 +4396,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W12-002",
@@ -4318,10 +4409,10 @@ window.DATA = {
    "explanation": "It models product systems and computes LCI/LCIA.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Tools"
@@ -4334,7 +4425,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W12-003",
@@ -4346,10 +4438,10 @@ window.DATA = {
    "explanation": "STAN (TU Wien) supports MFA with data reconciliation.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Tools"
@@ -4362,7 +4454,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-009",
@@ -4374,10 +4467,10 @@ window.DATA = {
    "explanation": "Matter is conserved; accumulation appears as stock change.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "MFA"
@@ -4390,7 +4483,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-010",
@@ -4402,10 +4496,10 @@ window.DATA = {
    "explanation": "100 − 90 = +10 t stored.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "MFA"
@@ -4418,7 +4512,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W11-004",
@@ -4430,10 +4525,10 @@ window.DATA = {
    "explanation": "Level crossings relate to railways.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Projects"
@@ -4448,10 +4543,11 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-025",
+   "id": "Q-W03-024",
    "week": 3,
    "topic": "EIA basics",
    "format": "mcq",
@@ -4460,10 +4556,10 @@ window.DATA = {
    "explanation": "EIA forecasts impacts of a proposal; audits assess compliance/performance of something already operating.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA basics"
@@ -4476,10 +4572,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-026",
+   "id": "Q-W03-025",
    "week": 3,
    "topic": "EIA process",
    "format": "mcq",
@@ -4488,10 +4585,10 @@ window.DATA = {
    "explanation": "Scoping identifies issues and fixes the ToR for the EIA report.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA process"
@@ -4504,10 +4601,11 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-027",
+   "id": "Q-W03-026",
    "week": 3,
    "topic": "EIA process",
    "format": "tf",
@@ -4516,10 +4614,10 @@ window.DATA = {
    "explanation": "Public hearing and written comments are statutory steps for most listed projects.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA process"
@@ -4530,11 +4628,12 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-028",
-   "week": 3,
+   "id": "Q-W01-003",
+   "week": 1,
    "topic": "Transport basics",
    "format": "multi",
    "difficulty": "easy",
@@ -4542,10 +4641,10 @@ window.DATA = {
    "explanation": "All four are modes; pipelines and non-motorised modes are also included in broad classifications.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Transport basics"
@@ -4561,10 +4660,11 @@ window.DATA = {
     1,
     2,
     3
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-029",
+   "id": "Q-W03-027",
    "week": 3,
    "topic": "EIA concept",
    "format": "mcq",
@@ -4573,10 +4673,10 @@ window.DATA = {
    "explanation": "It provides the reference against which project impacts are judged.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA concept"
@@ -4589,10 +4689,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-030",
+   "id": "Q-W03-028",
    "week": 3,
    "topic": "EIA legal",
    "format": "mcq",
@@ -4601,10 +4702,10 @@ window.DATA = {
    "explanation": "The Environment (Protection) Act, 1986 empowers the Centre to regulate through such notifications.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA legal"
@@ -4617,11 +4718,12 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-031",
-   "week": 3,
+   "id": "Q-W02-017",
+   "week": 2,
    "topic": "Transport basics",
    "format": "mcq",
    "difficulty": "medium",
@@ -4629,10 +4731,10 @@ window.DATA = {
    "explanation": "External costs are borne by others (health, noise, congestion, climate).",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Transport basics"
@@ -4645,10 +4747,11 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-032",
+   "id": "Q-W03-029",
    "week": 3,
    "topic": "EIA concept",
    "format": "ar",
@@ -4657,10 +4760,10 @@ window.DATA = {
    "explanation": "Without baseline there is nothing to measure change against.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA concept"
@@ -4673,7 +4776,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-009",
@@ -4685,10 +4789,10 @@ window.DATA = {
    "explanation": "Footprint = 300 m²; 4 floors → 1200 m²; FAR = 2.4.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "FAR"
@@ -4701,7 +4805,8 @@ window.DATA = {
    ],
    "answer": [
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-010",
@@ -4713,10 +4818,10 @@ window.DATA = {
    "explanation": "Floors = FAR / coverage fraction.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "FAR"
@@ -4729,7 +4834,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-011",
@@ -4741,10 +4847,10 @@ window.DATA = {
    "explanation": "More residents and jobs within walking distance support transit.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Land use"
@@ -4757,7 +4863,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-012",
@@ -4769,10 +4876,10 @@ window.DATA = {
    "explanation": "Buffers reduce exposure to noise, odour and air pollution.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Zoning"
@@ -4783,7 +4890,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-013",
@@ -4795,10 +4903,10 @@ window.DATA = {
    "explanation": "Sprawl is dispersed, low-density and car-dependent.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Land use"
@@ -4811,7 +4919,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-014",
@@ -4823,10 +4932,10 @@ window.DATA = {
    "explanation": "Single-use, large distances increase demand.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Land use"
@@ -4841,7 +4950,8 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-015",
@@ -4853,10 +4963,10 @@ window.DATA = {
    "explanation": "It is a statutory land-use and infrastructure plan.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Master plan"
@@ -4869,7 +4979,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-016",
@@ -4881,10 +4992,10 @@ window.DATA = {
    "explanation": "Cost and availability of parking influence mode choice.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Parking"
@@ -4897,10 +5008,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W06-008",
+   "id": "Q-W06-007",
    "week": 6,
    "topic": "Four-step model",
    "format": "mcq",
@@ -4909,10 +5021,10 @@ window.DATA = {
    "explanation": "Generation yields productions and attractions per zone.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Four-step model"
@@ -4925,10 +5037,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W06-009",
+   "id": "Q-W06-008",
    "week": 6,
    "topic": "Four-step model",
    "format": "mcq",
@@ -4937,10 +5050,10 @@ window.DATA = {
    "explanation": "Distribution connects productions to attractions to form the O-D matrix.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Four-step model"
@@ -4953,10 +5066,11 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W06-010",
+   "id": "Q-W06-009",
    "week": 6,
    "topic": "Four-step model",
    "format": "mcq",
@@ -4965,10 +5079,10 @@ window.DATA = {
    "explanation": "It ignores congestion effects.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Four-step model"
@@ -4981,10 +5095,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W06-011",
+   "id": "Q-W06-010",
    "week": 6,
    "topic": "Policy",
    "format": "mcq",
@@ -4993,10 +5108,10 @@ window.DATA = {
    "explanation": "Priority and integration improve speed, reliability and convenience.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Policy"
@@ -5009,10 +5124,11 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W06-012",
+   "id": "Q-W06-011",
    "week": 6,
    "topic": "Policy",
    "format": "tf",
@@ -5021,10 +5137,10 @@ window.DATA = {
    "explanation": "Sustainable plans cover all modes and safety.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Policy"
@@ -5035,10 +5151,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W06-013",
+   "id": "Q-W06-012",
    "week": 6,
    "topic": "Planning",
    "format": "mcq",
@@ -5047,10 +5164,10 @@ window.DATA = {
    "explanation": "They provide trip rates and behaviour data.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Planning"
@@ -5063,7 +5180,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-013",
@@ -5075,10 +5193,10 @@ window.DATA = {
    "explanation": "Free unrestricted space does not manage demand.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Demand"
@@ -5093,10 +5211,11 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W06-014",
+   "id": "Q-W06-013",
    "week": 6,
    "topic": "Planning",
    "format": "ar",
@@ -5105,10 +5224,10 @@ window.DATA = {
    "explanation": "Induced demand is the explanation.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Planning"
@@ -5121,10 +5240,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W02-017",
+   "id": "Q-W02-018",
    "week": 2,
    "topic": "Air",
    "format": "mcq",
@@ -5133,10 +5253,10 @@ window.DATA = {
    "explanation": "Carbon monoxide reduces blood oxygen transport.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Air"
@@ -5149,10 +5269,11 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W02-018",
+   "id": "Q-W02-019",
    "week": 2,
    "topic": "Air",
    "format": "mcq",
@@ -5161,10 +5282,10 @@ window.DATA = {
    "explanation": "Thermal NOx forms at high temperature.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Air"
@@ -5177,10 +5298,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W02-019",
+   "id": "Q-W02-020",
    "week": 2,
    "topic": "Noise",
    "format": "mcq",
@@ -5189,10 +5311,10 @@ window.DATA = {
    "explanation": "Noise is linked with annoyance, sleep disturbance and cardiovascular stress.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
@@ -5205,10 +5327,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W02-020",
+   "id": "Q-W02-021",
    "week": 2,
    "topic": "Water",
    "format": "mcq",
@@ -5217,10 +5340,10 @@ window.DATA = {
    "explanation": "Silt blocks light and covers breeding substrate.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Water"
@@ -5233,10 +5356,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W02-021",
+   "id": "Q-W02-022",
    "week": 2,
    "topic": "Soil",
    "format": "mcq",
@@ -5245,10 +5369,10 @@ window.DATA = {
    "explanation": "Bare soil is easily washed away.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Soil"
@@ -5261,10 +5385,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W02-022",
+   "id": "Q-W02-023",
    "week": 2,
    "topic": "Landscape",
    "format": "tf",
@@ -5273,10 +5398,10 @@ window.DATA = {
    "explanation": "They form part of landscape/visual impact assessment.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Landscape"
@@ -5287,10 +5412,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W02-023",
+   "id": "Q-W02-024",
    "week": 2,
    "topic": "Impacts",
    "format": "multi",
@@ -5299,10 +5425,10 @@ window.DATA = {
    "explanation": "Oxygen is not a greenhouse gas.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Impacts"
@@ -5317,10 +5443,11 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W02-024",
+   "id": "Q-W02-025",
    "week": 2,
    "topic": "Ecology",
    "format": "mcq",
@@ -5329,10 +5456,10 @@ window.DATA = {
    "explanation": "Fences guide animals to safe crossings.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Ecology"
@@ -5345,10 +5472,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-033",
+   "id": "Q-W03-030",
    "week": 3,
    "topic": "Baseline",
    "format": "mcq",
@@ -5357,10 +5485,10 @@ window.DATA = {
    "explanation": "Impacts can extend beyond the footprint.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Baseline"
@@ -5373,10 +5501,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-034",
+   "id": "Q-W03-031",
    "week": 3,
    "topic": "Water quality",
    "format": "mcq",
@@ -5385,10 +5514,10 @@ window.DATA = {
    "explanation": "pH 7 is neutral at 25 °C.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Water quality"
@@ -5401,10 +5530,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-035",
+   "id": "Q-W03-032",
    "week": 3,
    "topic": "Water quality",
    "format": "mcq",
@@ -5413,10 +5543,10 @@ window.DATA = {
    "explanation": "COD is typically ≥ BOD for the same sample.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Water quality"
@@ -5429,10 +5559,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-036",
+   "id": "Q-W03-033",
    "week": 3,
    "topic": "Air",
    "format": "mcq",
@@ -5441,10 +5572,10 @@ window.DATA = {
    "explanation": "PM2.5 is fine particulate matter up to 2.5 micrometres.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Air"
@@ -5457,10 +5588,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-037",
+   "id": "Q-W03-034",
    "week": 3,
    "topic": "Soil",
    "format": "mcq",
@@ -5469,10 +5601,10 @@ window.DATA = {
    "explanation": "Soil pH affects nutrient availability.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Soil"
@@ -5485,10 +5617,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-038",
+   "id": "Q-W03-035",
    "week": 3,
    "topic": "Baseline",
    "format": "tf",
@@ -5497,10 +5630,10 @@ window.DATA = {
    "explanation": "It ensures reliable and defensible data.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Baseline"
@@ -5511,10 +5644,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-039",
+   "id": "Q-W03-036",
    "week": 3,
    "topic": "Baseline",
    "format": "multi",
@@ -5523,10 +5657,10 @@ window.DATA = {
    "explanation": "Field readings are primary data.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Baseline"
@@ -5541,10 +5675,11 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-040",
+   "id": "Q-W03-037",
    "week": 3,
    "topic": "Air",
    "format": "mcq",
@@ -5553,10 +5688,10 @@ window.DATA = {
    "explanation": "Downwind and receptor locations capture exposure.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Air"
@@ -5569,7 +5704,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W09-009",
@@ -5581,10 +5717,10 @@ window.DATA = {
    "explanation": "20 log 2 ≈ 6 dB.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
@@ -5597,7 +5733,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W09-010",
@@ -5609,10 +5746,10 @@ window.DATA = {
    "explanation": "10 log 10 = 10 dB.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
@@ -5625,7 +5762,8 @@ window.DATA = {
    ],
    "answer": [
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W09-011",
@@ -5637,10 +5775,10 @@ window.DATA = {
    "explanation": "70 + 10 log 4 = 70 + 6.02 ≈ 76 dB.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
@@ -5653,7 +5791,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W09-012",
@@ -5665,10 +5804,10 @@ window.DATA = {
    "explanation": "Insertion loss rises when the path difference increases.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
@@ -5679,7 +5818,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W09-013",
@@ -5691,10 +5831,10 @@ window.DATA = {
    "explanation": "C = Q/(π u σy σz): higher wind dilutes more.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Air"
@@ -5707,7 +5847,8 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W09-014",
@@ -5719,10 +5860,10 @@ window.DATA = {
    "explanation": "Instability enhances turbulence; stable conditions inhibit mixing.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Air"
@@ -5735,7 +5876,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W09-015",
@@ -5747,10 +5889,10 @@ window.DATA = {
    "explanation": "EF is mass per unit distance (or per fuel/energy).",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Air"
@@ -5763,7 +5905,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W09-016",
@@ -5775,10 +5918,10 @@ window.DATA = {
    "explanation": "The moon is irrelevant.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Water"
@@ -5793,7 +5936,8 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-011",
@@ -5805,10 +5949,10 @@ window.DATA = {
    "explanation": "Scenarios project emissions over time under assumptions.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Scenarios"
@@ -5821,7 +5965,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-012",
@@ -5833,10 +5978,10 @@ window.DATA = {
    "explanation": "Fuel sales and emission factors give aggregate emissions.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Inventory"
@@ -5849,7 +5994,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-013",
@@ -5861,10 +6007,10 @@ window.DATA = {
    "explanation": "Emissions per pkm = per vehicle-km ÷ occupancy.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Mode shift"
@@ -5877,7 +6023,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-014",
@@ -5889,10 +6036,10 @@ window.DATA = {
    "explanation": "That is what sensitivity analysis reveals.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Sensitivity"
@@ -5903,7 +6050,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-015",
@@ -5915,10 +6063,10 @@ window.DATA = {
    "explanation": "Cheaper travel can raise demand.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Scenarios"
@@ -5931,7 +6079,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-016",
@@ -5943,10 +6092,10 @@ window.DATA = {
    "explanation": "Marking colour is irrelevant.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Inventory"
@@ -5961,7 +6110,8 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-017",
@@ -5973,10 +6123,10 @@ window.DATA = {
    "explanation": "BAU is the counterfactual.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Scenarios"
@@ -5989,7 +6139,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-018",
@@ -6001,10 +6152,10 @@ window.DATA = {
    "explanation": "All inputs carry uncertainty.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Uncertainty"
@@ -6017,10 +6168,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-041",
+   "id": "Q-W03-038",
    "week": 3,
    "topic": "Impact types",
    "format": "mcq",
@@ -6029,10 +6181,10 @@ window.DATA = {
    "explanation": "They last for the construction period.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Impact types"
@@ -6045,10 +6197,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-042",
+   "id": "Q-W03-039",
    "week": 3,
    "topic": "Impact types",
    "format": "mcq",
@@ -6057,10 +6210,10 @@ window.DATA = {
    "explanation": "The land is taken directly by the project.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Impact types"
@@ -6073,10 +6226,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-043",
+   "id": "Q-W03-040",
    "week": 3,
    "topic": "Methods",
    "format": "mcq",
@@ -6085,10 +6239,10 @@ window.DATA = {
    "explanation": "Overlays combine spatial information.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Methods"
@@ -6101,10 +6255,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-044",
+   "id": "Q-W03-041",
    "week": 3,
    "topic": "Methods",
    "format": "tf",
@@ -6113,10 +6268,10 @@ window.DATA = {
    "explanation": "It lists but does not link impacts.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Methods"
@@ -6127,10 +6282,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-045",
+   "id": "Q-W03-042",
    "week": 3,
    "topic": "Significance",
    "format": "mcq",
@@ -6139,10 +6295,10 @@ window.DATA = {
    "explanation": "Irreversibility raises concern.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Significance"
@@ -6155,10 +6311,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-046",
+   "id": "Q-W03-043",
    "week": 3,
    "topic": "Cumulative",
    "format": "mcq",
@@ -6167,10 +6324,10 @@ window.DATA = {
    "explanation": "Combined pressure may exceed capacity.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Cumulative"
@@ -6183,10 +6340,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-047",
+   "id": "Q-W03-044",
    "week": 3,
    "topic": "Impact types",
    "format": "multi",
@@ -6195,10 +6353,10 @@ window.DATA = {
    "explanation": "Tyre wear is an operational detail, not an induced effect.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Impact types"
@@ -6213,10 +6371,11 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W03-048",
+   "id": "Q-W03-045",
    "week": 3,
    "topic": "Methods",
    "format": "mcq",
@@ -6225,10 +6384,10 @@ window.DATA = {
    "explanation": "Both values (often 1-10) are assigned.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Methods"
@@ -6241,7 +6400,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-014",
@@ -6253,10 +6413,10 @@ window.DATA = {
    "explanation": "GIS integrates spatial data and models.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "DSS"
@@ -6269,7 +6429,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-015",
@@ -6281,10 +6442,10 @@ window.DATA = {
    "explanation": "Normalisation makes different units comparable.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "MCDA"
@@ -6297,7 +6458,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-016",
@@ -6309,10 +6471,10 @@ window.DATA = {
    "explanation": "Higher values suggest inconsistent pairwise comparisons.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "AHP"
@@ -6325,7 +6487,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-017",
@@ -6337,10 +6500,10 @@ window.DATA = {
    "explanation": "NPV = PV benefits − PV costs.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "CBA"
@@ -6353,7 +6516,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-018",
@@ -6365,10 +6529,10 @@ window.DATA = {
    "explanation": "Future amounts are discounted more heavily.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "CBA"
@@ -6381,7 +6545,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-019",
@@ -6393,10 +6558,10 @@ window.DATA = {
    "explanation": "It builds legitimacy and surfaces concerns.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "DSS"
@@ -6407,7 +6572,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-020",
@@ -6419,10 +6585,10 @@ window.DATA = {
    "explanation": "Logo colour is irrelevant.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "MCDA"
@@ -6437,7 +6603,8 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-021",
@@ -6449,10 +6616,10 @@ window.DATA = {
    "explanation": "That is why MCDA/qualitative methods supplement CBA.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "CBA"
@@ -6465,10 +6632,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W02-025",
+   "id": "Q-W02-026",
    "week": 2,
    "topic": "Noise control",
    "format": "mcq",
@@ -6477,10 +6645,10 @@ window.DATA = {
    "explanation": "Source control acts on the vehicle/road.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise control"
@@ -6493,10 +6661,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W02-026",
+   "id": "Q-W02-027",
    "week": 2,
    "topic": "Noise control",
    "format": "mcq",
@@ -6505,10 +6674,10 @@ window.DATA = {
    "explanation": "It protects the receiver.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise control"
@@ -6521,10 +6690,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W02-027",
+   "id": "Q-W02-028",
    "week": 2,
    "topic": "Air",
    "format": "mcq",
@@ -6533,10 +6703,10 @@ window.DATA = {
    "explanation": "Three-way catalysts convert CO, HC and NOx to less harmful gases.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Air"
@@ -6549,10 +6719,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W02-028",
+   "id": "Q-W02-029",
    "week": 2,
    "topic": "Air",
    "format": "tf",
@@ -6561,10 +6732,10 @@ window.DATA = {
    "explanation": "Poorly tuned engines emit much more.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Air"
@@ -6575,10 +6746,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W02-029",
+   "id": "Q-W02-030",
    "week": 2,
    "topic": "Ecology",
    "format": "mcq",
@@ -6587,10 +6759,10 @@ window.DATA = {
    "explanation": "It reduces disturbance to sensitive life stages.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Ecology"
@@ -6603,10 +6775,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W02-030",
+   "id": "Q-W02-031",
    "week": 2,
    "topic": "EMP",
    "format": "mcq",
@@ -6615,10 +6788,10 @@ window.DATA = {
    "explanation": "Monitoring confirms compliance and effectiveness.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EMP"
@@ -6631,10 +6804,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W02-031",
+   "id": "Q-W02-032",
    "week": 2,
    "topic": "Hierarchy",
    "format": "multi",
@@ -6643,10 +6817,10 @@ window.DATA = {
    "explanation": "Offset follows as last resort; ignoring is not a step.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Hierarchy"
@@ -6661,10 +6835,11 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W02-032",
+   "id": "Q-W02-033",
    "week": 2,
    "topic": "Water",
    "format": "mcq",
@@ -6673,10 +6848,10 @@ window.DATA = {
    "explanation": "It lets particles settle.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Water"
@@ -6689,10 +6864,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W01-002",
+   "id": "Q-W01-004",
    "week": 1,
    "topic": "Concept",
    "format": "mcq",
@@ -6701,10 +6877,10 @@ window.DATA = {
    "explanation": "Zero emissions and active travel benefits.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Concept"
@@ -6717,7 +6893,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W11-005",
@@ -6729,10 +6906,10 @@ window.DATA = {
    "explanation": "Metro is capital-intensive but high-capacity.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Modes"
@@ -6745,10 +6922,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W10-004",
+   "id": "Q-W10-005",
    "week": 10,
    "topic": "EV",
    "format": "mcq",
@@ -6757,10 +6935,10 @@ window.DATA = {
    "explanation": "Upstream generation matters.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EV"
@@ -6773,10 +6951,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W10-005",
+   "id": "Q-W10-006",
    "week": 10,
    "topic": "Fuels",
    "format": "mcq",
@@ -6785,10 +6964,10 @@ window.DATA = {
    "explanation": "CNG burns cleaner for PM and SO2.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Fuels"
@@ -6801,10 +6980,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W10-006",
+   "id": "Q-W10-007",
    "week": 10,
    "topic": "Fuels",
    "format": "tf",
@@ -6813,10 +6993,10 @@ window.DATA = {
    "explanation": "They are produced from biomass.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Fuels"
@@ -6827,7 +7007,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W12-004",
@@ -6839,10 +7020,10 @@ window.DATA = {
    "explanation": "It measures access.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Indicators"
@@ -6855,7 +7036,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W11-006",
@@ -6867,10 +7049,10 @@ window.DATA = {
    "explanation": "Higher speeds reduce safety.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "NMT"
@@ -6885,7 +7067,8 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W11-007",
@@ -6897,10 +7080,10 @@ window.DATA = {
    "explanation": "Lower construction needs shorten delivery.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Modes"
@@ -6913,7 +7096,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-022",
@@ -6925,10 +7109,10 @@ window.DATA = {
    "explanation": "LCI compiles inputs and outputs.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "LCA"
@@ -6941,7 +7125,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-023",
@@ -6953,10 +7138,10 @@ window.DATA = {
    "explanation": "LCIA translates flows into impacts.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "LCA"
@@ -6969,7 +7154,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-024",
@@ -6981,10 +7167,10 @@ window.DATA = {
    "explanation": "It excludes use and end-of-life.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "LCA"
@@ -6997,7 +7183,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W07-025",
@@ -7009,10 +7196,10 @@ window.DATA = {
    "explanation": "Otherwise comparison is unfair.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "LCA"
@@ -7023,7 +7210,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W08-019",
@@ -7035,10 +7223,10 @@ window.DATA = {
    "explanation": "Stocks hold material in the system.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "MFA"
@@ -7051,7 +7239,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W12-005",
@@ -7063,10 +7252,10 @@ window.DATA = {
    "explanation": "Other gases are scaled to CO2.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Tools"
@@ -7079,7 +7268,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W11-008",
@@ -7091,10 +7281,10 @@ window.DATA = {
    "explanation": "Habitats near runways attract birds.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Projects"
@@ -7107,7 +7297,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W11-009",
@@ -7119,10 +7310,10 @@ window.DATA = {
    "explanation": "Runway length concerns airports.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Projects"
@@ -7137,10 +7328,11 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W01-003",
+   "id": "Q-W01-005",
    "week": 1,
    "topic": "Sustainability",
    "format": "mcq",
@@ -7149,10 +7341,10 @@ window.DATA = {
    "explanation": "This is the Brundtland definition.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Sustainability"
@@ -7165,10 +7357,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W01-004",
+   "id": "Q-W01-006",
    "week": 1,
    "topic": "Sustainability",
    "format": "mcq",
@@ -7177,10 +7370,10 @@ window.DATA = {
    "explanation": "There are 17 SDGs.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Sustainability"
@@ -7193,10 +7386,11 @@ window.DATA = {
    ],
    "answer": [
     2
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W01-005",
+   "id": "Q-W01-007",
    "week": 1,
    "topic": "Modes",
    "format": "mcq",
@@ -7205,10 +7399,10 @@ window.DATA = {
    "explanation": "Water transport uses the least energy per tonne-km.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Modes"
@@ -7221,10 +7415,11 @@ window.DATA = {
    ],
    "answer": [
     2
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W01-006",
+   "id": "Q-W01-008",
    "week": 1,
    "topic": "Modes",
    "format": "mcq",
@@ -7233,10 +7428,10 @@ window.DATA = {
    "explanation": "Humans walked long before any vehicle.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Modes"
@@ -7249,10 +7444,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W01-007",
+   "id": "Q-W01-009",
    "week": 1,
    "topic": "Sustainability",
    "format": "tf",
@@ -7261,10 +7457,10 @@ window.DATA = {
    "explanation": "They cover poverty, health, education, equality, economy and institutions as well.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Sustainability"
@@ -7275,10 +7471,11 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W01-008",
+   "id": "Q-W01-010",
    "week": 1,
    "topic": "Climate",
    "format": "mcq",
@@ -7287,10 +7484,10 @@ window.DATA = {
    "explanation": "Well below 2 degC above pre-industrial levels, pursuing 1.5 degC.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Climate"
@@ -7303,10 +7500,11 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W01-009",
+   "id": "Q-W01-011",
    "week": 1,
    "topic": "India scenario",
    "format": "mcq",
@@ -7315,10 +7513,10 @@ window.DATA = {
    "explanation": "Two-wheelers account for roughly three-quarters of registrations.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "India scenario"
@@ -7331,10 +7529,11 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W01-010",
+   "id": "Q-W01-012",
    "week": 1,
    "topic": "Forecasting",
    "format": "mcq",
@@ -7343,10 +7542,10 @@ window.DATA = {
    "explanation": "Traffic growth = elasticity x economic growth = 1.5 x 6 = 9%.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Forecasting"
@@ -7359,10 +7558,11 @@ window.DATA = {
    ],
    "answer": [
     2
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W01-011",
+   "id": "Q-W01-013",
    "week": 1,
    "topic": "Sustainability",
    "format": "multi",
@@ -7371,10 +7571,10 @@ window.DATA = {
    "explanation": "Environmental, economic and social.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Sustainability"
@@ -7389,10 +7589,11 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W01-012",
+   "id": "Q-W01-014",
    "week": 1,
    "topic": "Climate",
    "format": "tf",
@@ -7401,10 +7602,10 @@ window.DATA = {
    "explanation": "Fuel combustion in transport emits large amounts of CO2.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Climate"
@@ -7415,7 +7616,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W04-001",
@@ -7427,10 +7629,10 @@ window.DATA = {
    "explanation": "MAHSR is planned with Japanese Shinkansen technology.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "MAHSR"
@@ -7443,7 +7645,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W04-002",
@@ -7455,10 +7658,10 @@ window.DATA = {
    "explanation": "The National High Speed Rail Corporation Limited.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "MAHSR"
@@ -7471,7 +7674,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W04-003",
@@ -7483,10 +7687,10 @@ window.DATA = {
    "explanation": "It is an unethical practice to bypass EIA.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA practice"
@@ -7499,7 +7703,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W04-004",
@@ -7511,10 +7716,10 @@ window.DATA = {
    "explanation": "It is an offset measure.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA practice"
@@ -7527,7 +7732,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W04-005",
@@ -7539,10 +7745,10 @@ window.DATA = {
    "explanation": "Vegetation/bio-engineering holds soil.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Mitigation"
@@ -7555,7 +7761,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W04-006",
@@ -7567,10 +7774,10 @@ window.DATA = {
    "explanation": "BAU is the reference without the project.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA practice"
@@ -7581,7 +7788,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W04-007",
@@ -7593,10 +7801,10 @@ window.DATA = {
    "explanation": "SPVs hold project assets and liabilities separately.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA practice"
@@ -7609,7 +7817,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W04-008",
@@ -7621,10 +7830,10 @@ window.DATA = {
    "explanation": "Proponent, funder and SPV structure.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA practice"
@@ -7639,7 +7848,8 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W04-009",
@@ -7651,10 +7861,10 @@ window.DATA = {
    "explanation": "Impact = with project minus without project.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA practice"
@@ -7667,7 +7877,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W04-010",
@@ -7679,10 +7890,10 @@ window.DATA = {
    "explanation": "Splitting is used precisely to stay below thresholds.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EIA practice"
@@ -7695,7 +7906,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-017",
@@ -7707,10 +7919,10 @@ window.DATA = {
    "explanation": "People are willing to walk roughly 500-800 m to a station.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "TOD"
@@ -7723,7 +7935,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-018",
@@ -7735,10 +7948,10 @@ window.DATA = {
    "explanation": "Brownfield = existing urban area.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "TOD"
@@ -7751,7 +7964,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-019",
@@ -7763,10 +7977,10 @@ window.DATA = {
    "explanation": "That is the core idea.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "TOD"
@@ -7777,7 +7991,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W05-020",
@@ -7789,10 +8004,10 @@ window.DATA = {
    "explanation": "4 / 0.40 = 10 floors.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "TOD"
@@ -7805,10 +8020,11 @@ window.DATA = {
    ],
    "answer": [
     2
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W06-015",
+   "id": "Q-W06-014",
    "week": 6,
    "topic": "4-step",
    "format": "mcq",
@@ -7817,10 +8033,10 @@ window.DATA = {
    "explanation": "Distribution requires matching totals.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "4-step"
@@ -7833,10 +8049,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W06-016",
+   "id": "Q-W06-015",
    "week": 6,
    "topic": "4-step",
    "format": "mcq",
@@ -7845,10 +8062,10 @@ window.DATA = {
    "explanation": "Cordon surveys count trips crossing the boundary.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "4-step"
@@ -7861,10 +8078,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W06-017",
+   "id": "Q-W06-016",
    "week": 6,
    "topic": "Value capture",
    "format": "mcq",
@@ -7873,10 +8091,10 @@ window.DATA = {
    "explanation": "Others include joint development and land readjustment.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Value capture"
@@ -7889,10 +8107,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W06-018",
+   "id": "Q-W06-017",
    "week": 6,
    "topic": "4-step",
    "format": "mcq",
@@ -7901,10 +8120,10 @@ window.DATA = {
    "explanation": "9000 / 3000 = 3 trips per person.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "4-step"
@@ -7917,10 +8136,11 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W10-007",
+   "id": "Q-W10-008",
    "week": 10,
    "topic": "Decarbonisation",
    "format": "mcq",
@@ -7929,10 +8149,10 @@ window.DATA = {
    "explanation": "Avoid unnecessary trips, shift to efficient modes, improve vehicles/fuels.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Decarbonisation"
@@ -7945,10 +8165,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W10-008",
+   "id": "Q-W10-009",
    "week": 10,
    "topic": "Decarbonisation",
    "format": "mcq",
@@ -7957,10 +8178,10 @@ window.DATA = {
    "explanation": "Air travel is carbon intensive.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Decarbonisation"
@@ -7973,10 +8194,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W10-009",
+   "id": "Q-W10-010",
    "week": 10,
    "topic": "EV",
    "format": "mcq",
@@ -7985,10 +8207,10 @@ window.DATA = {
    "explanation": "Electricity generation and manufacturing still emit.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EV"
@@ -8001,10 +8223,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W10-010",
+   "id": "Q-W10-011",
    "week": 10,
    "topic": "EV",
    "format": "mcq",
@@ -8013,10 +8236,10 @@ window.DATA = {
    "explanation": "Batteries must hold charge well and be rugged.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EV"
@@ -8029,10 +8252,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W10-011",
+   "id": "Q-W10-012",
    "week": 10,
    "topic": "Fuels",
    "format": "mcq",
@@ -8041,10 +8265,10 @@ window.DATA = {
    "explanation": "Food security should come first.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Fuels"
@@ -8057,10 +8281,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W10-012",
+   "id": "Q-W10-013",
    "week": 10,
    "topic": "Fuels",
    "format": "mcq",
@@ -8069,10 +8294,10 @@ window.DATA = {
    "explanation": "Linkoping is the example given in the course.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Fuels"
@@ -8085,10 +8310,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W10-013",
+   "id": "Q-W10-014",
    "week": 10,
    "topic": "BRTS",
    "format": "mcq",
@@ -8097,10 +8323,10 @@ window.DATA = {
    "explanation": "Segregated lanes give speed and reliability.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "BRTS"
@@ -8113,10 +8339,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W10-014",
+   "id": "Q-W10-015",
    "week": 10,
    "topic": "Hyperloop",
    "format": "tf",
@@ -8125,10 +8352,10 @@ window.DATA = {
    "explanation": "The sealed tube makes weather sensitivity low; limits are comfort, turns and acceleration.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Hyperloop"
@@ -8139,10 +8366,11 @@ window.DATA = {
    ],
    "answer": [
     1
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W10-015",
+   "id": "Q-W10-016",
    "week": 10,
    "topic": "EV",
    "format": "mcq",
@@ -8151,10 +8379,10 @@ window.DATA = {
    "explanation": "0.18 x 0.9 = 0.162 kg/km.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EV"
@@ -8167,10 +8395,11 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
-   "id": "Q-W10-016",
+   "id": "Q-W10-017",
    "week": 10,
    "topic": "Fuels",
    "format": "multi",
@@ -8179,10 +8408,10 @@ window.DATA = {
    "explanation": "Coal tar is not an alternative transport fuel.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Fuels"
@@ -8197,7 +8426,8 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W11-010",
@@ -8209,10 +8439,10 @@ window.DATA = {
    "explanation": "Airports affect noise, land and air/water quality.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Airports"
@@ -8225,7 +8455,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W11-011",
@@ -8237,10 +8468,10 @@ window.DATA = {
    "explanation": "Releasing ballast water can introduce invasive species.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Water transport"
@@ -8253,7 +8484,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W11-012",
@@ -8265,10 +8497,10 @@ window.DATA = {
    "explanation": "NMT is clean and healthy but slow.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "NMT"
@@ -8281,7 +8513,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W11-013",
@@ -8293,10 +8526,10 @@ window.DATA = {
    "explanation": "Safer cities typically have more walking and cycling.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "NMT"
@@ -8307,7 +8540,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W11-014",
@@ -8319,10 +8553,10 @@ window.DATA = {
    "explanation": "Metros need concentrated demand.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Metro"
@@ -8335,7 +8569,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W11-015",
@@ -8347,10 +8582,10 @@ window.DATA = {
    "explanation": "NW-2 is on the Brahmaputra.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Water transport"
@@ -8363,7 +8598,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W11-016",
@@ -8375,10 +8611,10 @@ window.DATA = {
    "explanation": "These are rating systems; MOVES/EMFAC are emission models.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Airports"
@@ -8391,7 +8627,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W12-006",
@@ -8403,10 +8640,10 @@ window.DATA = {
    "explanation": "STAN supports MFA with data reconciliation.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Tools"
@@ -8419,7 +8656,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W12-007",
@@ -8431,10 +8669,10 @@ window.DATA = {
    "explanation": "openLCA builds LCA product systems.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Tools"
@@ -8447,7 +8685,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W12-008",
@@ -8459,10 +8698,10 @@ window.DATA = {
    "explanation": "STAR = Sustainable Transportation Appraisal Rating.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Indicators"
@@ -8475,7 +8714,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W12-009",
@@ -8487,10 +8727,10 @@ window.DATA = {
    "explanation": "The SDG India Index is produced by NITI Aayog, the Government of India think tank.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Indicators"
@@ -8503,7 +8743,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W12-010",
@@ -8515,10 +8756,10 @@ window.DATA = {
    "explanation": "Vitality 60%, environmental health 40%.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Indicators"
@@ -8531,7 +8772,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W12-011",
@@ -8543,10 +8785,10 @@ window.DATA = {
    "explanation": "That is the idea behind composite indices.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Indicators"
@@ -8557,7 +8799,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W12-012",
@@ -8569,10 +8812,10 @@ window.DATA = {
    "explanation": "Colour is irrelevant.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Indicators"
@@ -8587,7 +8830,8 @@ window.DATA = {
     0,
     1,
     2
-   ]
+   ],
+   "years": []
   },
   {
    "id": "Q-W12-013",
@@ -8599,10 +8843,10 @@ window.DATA = {
    "explanation": "STAN is MFA; openLCA/SimaPro are LCA tools.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Tools"
@@ -8615,7 +8859,8 @@ window.DATA = {
    ],
    "answer": [
     0
-   ]
+   ],
+   "years": []
   },
   {
    "id": "O21-A00-01",
@@ -8645,6 +8890,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -8673,6 +8921,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -8703,6 +8954,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -8733,6 +8987,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -8749,6 +9006,9 @@ window.DATA = {
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
     "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_years": [
+     2026
+    ],
     "also_year": 2026
    },
    "related": [
@@ -8765,7 +9025,10 @@ window.DATA = {
    "answer": [
     2
    ],
-   "also_2026": "W1 Q1"
+   "years": [
+    2021,
+    2026
+   ]
   },
   {
    "id": "O21-A01-02",
@@ -8781,6 +9044,9 @@ window.DATA = {
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
     "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_years": [
+     2026
+    ],
     "also_year": 2026
    },
    "related": [
@@ -8797,7 +9063,10 @@ window.DATA = {
    "answer": [
     2
    ],
-   "also_2026": "W1 Q2"
+   "years": [
+    2021,
+    2026
+   ]
   },
   {
    "id": "O21-A01-03",
@@ -8813,6 +9082,9 @@ window.DATA = {
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
     "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_years": [
+     2026
+    ],
     "also_year": 2026
    },
    "related": [
@@ -8829,7 +9101,10 @@ window.DATA = {
    "answer": [
     2
    ],
-   "also_2026": "W1 Q3"
+   "years": [
+    2021,
+    2026
+   ]
   },
   {
    "id": "O21-A01-04",
@@ -8859,6 +9134,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -8875,6 +9153,9 @@ window.DATA = {
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
     "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_years": [
+     2026
+    ],
     "also_year": 2026
    },
    "related": [
@@ -8891,7 +9172,10 @@ window.DATA = {
    "answer": [
     0
    ],
-   "also_2026": "W1 Q5"
+   "years": [
+    2021,
+    2026
+   ]
   },
   {
    "id": "O21-A01-06",
@@ -8907,6 +9191,9 @@ window.DATA = {
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
     "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_years": [
+     2026
+    ],
     "also_year": 2026
    },
    "related": [
@@ -8921,7 +9208,10 @@ window.DATA = {
    "answer": [
     0
    ],
-   "also_2026": "W1 Q6"
+   "years": [
+    2021,
+    2026
+   ]
   },
   {
    "id": "O21-A01-07",
@@ -8937,6 +9227,9 @@ window.DATA = {
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
     "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_years": [
+     2026
+    ],
     "also_year": 2026
    },
    "related": [
@@ -8953,7 +9246,10 @@ window.DATA = {
    "answer": [
     0
    ],
-   "also_2026": "W1 Q7"
+   "years": [
+    2021,
+    2026
+   ]
   },
   {
    "id": "O21-A01-08",
@@ -8969,6 +9265,9 @@ window.DATA = {
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
     "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_years": [
+     2026
+    ],
     "also_year": 2026
    },
    "related": [
@@ -8985,7 +9284,10 @@ window.DATA = {
    "answer": [
     2
    ],
-   "also_2026": "W1 Q8"
+   "years": [
+    2021,
+    2026
+   ]
   },
   {
    "id": "O21-A01-09",
@@ -9001,6 +9303,9 @@ window.DATA = {
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
     "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_years": [
+     2026
+    ],
     "also_year": 2026
    },
    "related": [
@@ -9017,7 +9322,10 @@ window.DATA = {
    "answer": [
     0
    ],
-   "also_2026": "W1 Q9"
+   "years": [
+    2021,
+    2026
+   ]
   },
   {
    "id": "O21-A01-10",
@@ -9048,6 +9356,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9078,6 +9389,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9108,6 +9422,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9138,6 +9455,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9168,6 +9488,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9196,6 +9519,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9226,6 +9552,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9256,6 +9585,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9286,6 +9618,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9316,6 +9651,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9346,6 +9684,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9376,6 +9717,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9406,6 +9750,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9436,6 +9783,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9452,6 +9802,9 @@ window.DATA = {
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
     "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_years": [
+     2026
+    ],
     "also_year": 2026
    },
    "related": [
@@ -9468,7 +9821,10 @@ window.DATA = {
    "answer": [
     1
    ],
-   "also_2026": "W3 Q6"
+   "years": [
+    2021,
+    2026
+   ]
   },
   {
    "id": "O21-A03-05",
@@ -9498,6 +9854,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9514,6 +9873,9 @@ window.DATA = {
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
     "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_years": [
+     2026
+    ],
     "also_year": 2026
    },
    "related": [
@@ -9528,7 +9890,10 @@ window.DATA = {
    "answer": [
     0
    ],
-   "also_2026": "W3 Q8"
+   "years": [
+    2021,
+    2026
+   ]
   },
   {
    "id": "O21-A03-07",
@@ -9558,6 +9923,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9588,6 +9956,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9618,6 +9989,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9648,6 +10022,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9678,6 +10055,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9708,6 +10088,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9738,6 +10121,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9768,6 +10154,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9798,6 +10187,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9828,6 +10220,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9858,6 +10253,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9888,6 +10286,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9918,6 +10319,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9948,6 +10352,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -9978,6 +10385,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10008,6 +10418,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10038,6 +10451,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10054,6 +10470,9 @@ window.DATA = {
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
     "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_years": [
+     2026
+    ],
     "also_year": 2026
    },
    "related": [
@@ -10070,7 +10489,10 @@ window.DATA = {
    "answer": [
     2
    ],
-   "also_2026": "W5 Q4"
+   "years": [
+    2021,
+    2026
+   ]
   },
   {
    "id": "O21-A05-05",
@@ -10100,6 +10522,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10130,6 +10555,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10160,6 +10588,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10190,6 +10621,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10220,6 +10654,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10250,6 +10687,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10266,6 +10706,9 @@ window.DATA = {
     "url": "https://nptel.ac.in/courses/105107210",
     "document": "NPTEL Sustainable Transportation Systems - Assignments 0-12, Jul-Oct 2021 session (portal screenshots supplied by the user)",
     "verification": "transcribed-from-official-portal-screenshots: question text and accepted answer copied by hand from the NPTEL portal; not independently re-verified",
+    "also_years": [
+     2026
+    ],
     "also_year": 2026
    },
    "related": [
@@ -10282,7 +10725,10 @@ window.DATA = {
    "answer": [
     1
    ],
-   "also_2026": "W6 Q8"
+   "years": [
+    2021,
+    2026
+   ]
   },
   {
    "id": "O21-A06-02",
@@ -10312,6 +10758,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10342,6 +10791,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10372,6 +10824,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10402,6 +10857,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10432,6 +10890,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10462,6 +10923,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10492,6 +10956,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10522,6 +10989,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10552,6 +11022,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10580,6 +11053,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10608,6 +11084,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10638,6 +11117,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10668,6 +11150,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10698,6 +11183,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10728,6 +11216,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10756,6 +11247,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10786,6 +11280,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10814,6 +11311,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10844,6 +11344,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10874,6 +11377,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10904,6 +11410,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10934,6 +11443,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10964,6 +11476,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -10994,6 +11509,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11024,6 +11542,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11054,6 +11575,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11084,6 +11608,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11114,6 +11641,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11144,6 +11674,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11174,6 +11707,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11204,6 +11740,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11234,6 +11773,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11262,6 +11804,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11292,6 +11837,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11322,6 +11870,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11352,6 +11903,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11382,6 +11936,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11412,6 +11969,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11442,6 +12002,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11472,6 +12035,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11502,6 +12068,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11532,6 +12101,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11562,6 +12134,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11592,6 +12167,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11620,6 +12198,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11650,6 +12231,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11680,6 +12264,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11710,6 +12297,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11740,6 +12330,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11770,6 +12363,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11800,6 +12396,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11828,6 +12427,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11858,6 +12460,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11888,6 +12493,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11916,6 +12524,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11946,6 +12557,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -11976,6 +12590,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -12006,6 +12623,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -12036,6 +12656,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -12066,6 +12689,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -12096,6 +12722,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -12124,6 +12753,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -12154,6 +12786,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -12184,6 +12819,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -12212,6 +12850,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -12242,6 +12883,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -12272,6 +12916,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -12302,6 +12949,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2021
    ]
   },
   {
@@ -12316,8 +12966,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 1 (2026)"
@@ -12332,6 +12982,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12346,8 +12999,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 1 (2026)"
@@ -12363,6 +13016,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12377,8 +13033,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 2 (2026)"
@@ -12393,6 +13049,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12407,8 +13066,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 2 (2026)"
@@ -12423,6 +13082,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12437,8 +13099,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 2 (2026)"
@@ -12453,6 +13115,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12467,8 +13132,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 2 (2026)"
@@ -12483,6 +13148,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12497,8 +13165,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 2 (2026)"
@@ -12513,6 +13181,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12527,8 +13198,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 2 (2026)"
@@ -12543,6 +13214,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12557,8 +13231,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 2 (2026)"
@@ -12571,6 +13245,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12585,8 +13262,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 2 (2026)"
@@ -12601,6 +13278,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12615,8 +13295,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 2 (2026)"
@@ -12631,6 +13311,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12645,8 +13328,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 2 (2026)"
@@ -12659,6 +13342,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12673,8 +13359,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 3 (2026)"
@@ -12689,6 +13375,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12703,8 +13392,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 3 (2026)"
@@ -12717,6 +13406,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12731,8 +13423,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 3 (2026)"
@@ -12747,6 +13439,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12761,8 +13456,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 3 (2026)"
@@ -12777,6 +13472,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12791,8 +13489,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 3 (2026)"
@@ -12807,6 +13505,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12821,8 +13522,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 3 (2026)"
@@ -12837,6 +13538,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12851,8 +13555,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 3 (2026)"
@@ -12867,6 +13571,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12881,8 +13588,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 3 (2026)"
@@ -12897,6 +13604,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12911,8 +13621,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 4 (2026)"
@@ -12927,6 +13637,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12941,8 +13654,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 4 (2026)"
@@ -12957,6 +13670,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -12971,8 +13687,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 4 (2026)"
@@ -12987,6 +13703,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13001,8 +13720,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 4 (2026)"
@@ -13017,6 +13736,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13031,8 +13753,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 4 (2026)"
@@ -13047,6 +13769,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13061,8 +13786,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 4 (2026)"
@@ -13077,6 +13802,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13091,8 +13819,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 4 (2026)"
@@ -13107,6 +13835,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13121,8 +13852,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 4 (2026)"
@@ -13137,6 +13868,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13151,8 +13885,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 4 (2026)"
@@ -13167,6 +13901,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13181,8 +13918,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 4 (2026)"
@@ -13197,6 +13934,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13211,8 +13951,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 5 (2026)"
@@ -13227,6 +13967,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13241,8 +13984,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 5 (2026)"
@@ -13255,6 +13998,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13269,8 +14015,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 5 (2026)"
@@ -13285,6 +14031,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13299,8 +14048,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 5 (2026)"
@@ -13315,6 +14064,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13329,8 +14081,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 5 (2026)"
@@ -13345,6 +14097,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13359,8 +14114,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 5 (2026)"
@@ -13375,6 +14130,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13389,8 +14147,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 5 (2026)"
@@ -13405,6 +14163,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13419,8 +14180,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 5 (2026)"
@@ -13435,6 +14196,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13449,8 +14213,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 5 (2026)"
@@ -13465,6 +14229,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13479,8 +14246,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 6 (2026)"
@@ -13495,6 +14262,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13509,8 +14279,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 6 (2026)"
@@ -13525,6 +14295,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13539,8 +14312,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 6 (2026)"
@@ -13555,6 +14328,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13569,8 +14345,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 6 (2026)"
@@ -13585,6 +14361,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13599,8 +14378,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 6 (2026)"
@@ -13615,6 +14394,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13629,8 +14411,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 6 (2026)"
@@ -13645,6 +14427,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13659,8 +14444,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 6 (2026)"
@@ -13675,6 +14460,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13689,8 +14477,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 6 (2026)"
@@ -13705,6 +14493,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13719,8 +14510,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 6 (2026)"
@@ -13735,6 +14526,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13749,8 +14543,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 7 (2026)"
@@ -13763,6 +14557,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13777,8 +14574,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 7 (2026)"
@@ -13793,6 +14590,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13807,8 +14607,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 7 (2026)"
@@ -13823,6 +14623,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13837,8 +14640,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 7 (2026)"
@@ -13851,6 +14654,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13865,8 +14671,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 7 (2026)"
@@ -13881,6 +14687,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13895,8 +14704,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 7 (2026)"
@@ -13911,6 +14720,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13925,8 +14737,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 7 (2026)"
@@ -13941,6 +14753,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13955,8 +14770,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 7 (2026)"
@@ -13969,6 +14784,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -13983,8 +14801,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 7 (2026)"
@@ -13997,6 +14815,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14011,8 +14832,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 7 (2026)"
@@ -14027,6 +14848,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14041,8 +14865,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 8 (2026)"
@@ -14057,6 +14881,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14071,8 +14898,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 8 (2026)"
@@ -14087,6 +14914,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14101,8 +14931,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 8 (2026)"
@@ -14117,6 +14947,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14131,8 +14964,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 8 (2026)"
@@ -14147,6 +14980,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14161,8 +14997,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 8 (2026)"
@@ -14177,6 +15013,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14191,8 +15030,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 8 (2026)"
@@ -14205,6 +15044,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14219,8 +15061,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 8 (2026)"
@@ -14235,6 +15077,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14249,8 +15094,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 8 (2026)"
@@ -14265,6 +15110,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14279,8 +15127,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 8 (2026)"
@@ -14295,6 +15143,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14309,8 +15160,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 8 (2026)"
@@ -14325,6 +15176,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14339,8 +15193,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 9 (2026)"
@@ -14355,6 +15209,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14369,8 +15226,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 9 (2026)"
@@ -14385,6 +15242,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14399,8 +15259,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 9 (2026)"
@@ -14415,6 +15275,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14429,8 +15292,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 9 (2026)"
@@ -14445,6 +15308,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14459,8 +15325,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 9 (2026)"
@@ -14475,6 +15341,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14489,8 +15358,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 9 (2026)"
@@ -14503,6 +15372,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14517,8 +15389,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 9 (2026)"
@@ -14533,6 +15405,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14547,8 +15422,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 9 (2026)"
@@ -14563,6 +15438,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14577,8 +15455,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 9 (2026)"
@@ -14593,6 +15471,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14607,8 +15488,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 9 (2026)"
@@ -14623,6 +15504,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14637,8 +15521,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 10 (2026)"
@@ -14653,6 +15537,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14667,8 +15554,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 10 (2026)"
@@ -14683,6 +15570,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14697,8 +15587,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 10 (2026)"
@@ -14713,6 +15603,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14727,8 +15620,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 10 (2026)"
@@ -14743,6 +15636,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14757,8 +15653,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 10 (2026)"
@@ -14771,6 +15667,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14785,8 +15684,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 10 (2026)"
@@ -14801,6 +15700,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14815,8 +15717,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 10 (2026)"
@@ -14831,6 +15733,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14845,8 +15750,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 10 (2026)"
@@ -14861,6 +15766,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14875,8 +15783,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 10 (2026)"
@@ -14891,6 +15799,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14905,8 +15816,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 10 (2026)"
@@ -14921,6 +15832,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14935,8 +15849,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 11 (2026)"
@@ -14951,6 +15865,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14965,8 +15882,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 11 (2026)"
@@ -14981,6 +15898,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -14995,8 +15915,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 11 (2026)"
@@ -15011,6 +15931,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -15025,8 +15948,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 11 (2026)"
@@ -15041,6 +15964,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -15055,8 +15981,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 11 (2026)"
@@ -15071,6 +15997,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -15085,8 +16014,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 11 (2026)"
@@ -15101,6 +16030,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -15115,8 +16047,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 11 (2026)"
@@ -15131,6 +16063,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -15145,8 +16080,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 11 (2026)"
@@ -15161,6 +16096,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -15175,8 +16113,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 11 (2026)"
@@ -15191,6 +16129,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -15205,8 +16146,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 11 (2026)"
@@ -15221,6 +16162,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -15235,8 +16179,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 12 (2026)"
@@ -15251,6 +16195,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -15265,8 +16212,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 12 (2026)"
@@ -15281,6 +16228,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -15295,8 +16245,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 12 (2026)"
@@ -15311,6 +16261,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -15325,8 +16278,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 12 (2026)"
@@ -15341,6 +16294,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -15355,8 +16311,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 12 (2026)"
@@ -15369,6 +16325,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -15383,8 +16342,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 12 (2026)"
@@ -15399,6 +16358,9 @@ window.DATA = {
    ],
    "answer": [
     3
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -15413,8 +16375,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 12 (2026)"
@@ -15429,6 +16391,9 @@ window.DATA = {
    ],
    "answer": [
     2
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -15443,8 +16408,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 12 (2026)"
@@ -15459,6 +16424,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -15473,8 +16441,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 12 (2026)"
@@ -15489,6 +16457,9 @@ window.DATA = {
    ],
    "answer": [
     1
+   ],
+   "years": [
+    2026
    ]
   },
   {
@@ -15503,8 +16474,8 @@ window.DATA = {
     "label": "Official NPTEL assignment (2026)",
     "year": 2026,
     "url": "https://nptel.ac.in/courses/105107210",
-    "document": "NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-    "verification": "transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant"
+    "document": "NPTEL Sustainable Transportation Systems - weekly assignments 2026 (PDFs supplied by the user; correct option highlighted yellow)",
+    "verification": "transcribed-from-official-2026-assignment-source: PDFs supplied by the user; correct option highlighted yellow; explanation written by the assistant"
    },
    "related": [
     "Assignment 12 (2026)"
@@ -15517,6 +16488,9 @@ window.DATA = {
    ],
    "answer": [
     0
+   ],
+   "years": [
+    2026
    ]
   }
  ],
@@ -15541,14 +16515,15 @@ window.DATA = {
    "explanation": "Doubling acoustic energy adds about 3 dB.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W09-002",
@@ -15570,14 +16545,15 @@ window.DATA = {
    "explanation": "Equal sources: L = Li + 10 log N.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W09-003",
@@ -15600,14 +16576,15 @@ window.DATA = {
    "explanation": "Inverse-square spreading: 6 dB per distance doubling.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W09-004",
@@ -15630,14 +16607,15 @@ window.DATA = {
    "explanation": "Line source: 3 dB per doubling.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W09-005",
@@ -15659,14 +16637,15 @@ window.DATA = {
    "explanation": "The loud period dominates the energy average.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W09-006",
@@ -15688,14 +16667,15 @@ window.DATA = {
    "explanation": "A 10^4 pressure ratio is 80 dB.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W09-007",
@@ -15718,14 +16698,15 @@ window.DATA = {
    "explanation": "Source and receptor at ground level, so the height term is 1.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Air dispersion"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W08-001",
@@ -15747,14 +16728,15 @@ window.DATA = {
    "explanation": "Always convert grams to kilograms at the end.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Emission estimate"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W08-002",
@@ -15775,14 +16757,15 @@ window.DATA = {
    "explanation": "Fuel-based method; EF is an assumed typical value.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Fuel emissions"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W08-003",
@@ -15804,14 +16787,15 @@ window.DATA = {
    "explanation": "1 t = 10^6 g.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Mode shift"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W08-004",
@@ -15834,14 +16818,15 @@ window.DATA = {
    "explanation": "The bus is four times more fuel-efficient per passenger-km at this occupancy.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Energy efficiency"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W08-005",
@@ -15863,14 +16848,15 @@ window.DATA = {
    "explanation": "Full buses are very efficient per passenger.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Emission per pkm"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W08-006",
@@ -15892,14 +16878,15 @@ window.DATA = {
    "explanation": "Compare with the bus result.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Emission per pkm"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W07-001",
@@ -15922,14 +16909,15 @@ window.DATA = {
    "explanation": "Option A scores 7.2 so B ranks first, narrowly.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Decision analysis"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W10-001",
@@ -15950,14 +16938,15 @@ window.DATA = {
    "explanation": "Only grid emissions counted (no manufacturing).",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "EV emissions"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W07-002",
@@ -15980,14 +16969,15 @@ window.DATA = {
    "explanation": "Functional unit: 1 passenger-km.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "LCA"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W08-007",
@@ -16008,14 +16998,15 @@ window.DATA = {
    "explanation": "Positive: material accumulates.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "MFA"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W05-001",
@@ -16038,14 +17029,15 @@ window.DATA = {
    "explanation": "Max built-up area = FAR × plot area.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Land use"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W03-001",
@@ -16066,14 +17058,15 @@ window.DATA = {
    "explanation": "Unit consistency is the key step.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Water load"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W07-003",
@@ -16094,14 +17087,15 @@ window.DATA = {
    "explanation": "BCR>1 is economically attractive; NPV = 90 crore.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "CBA"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W09-008",
@@ -16125,14 +17119,15 @@ window.DATA = {
    "explanation": "Add energies, not decibels.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W09-009",
@@ -16155,14 +17150,15 @@ window.DATA = {
    "explanation": "A tenfold distance drops a point source by 20 dB.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W09-010",
@@ -16185,14 +17181,15 @@ window.DATA = {
    "explanation": "Line source: 3 dB per doubling.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W09-011",
@@ -16214,14 +17211,15 @@ window.DATA = {
    "explanation": "A 10^5 pressure ratio gives 100 dB.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W09-012",
@@ -16245,14 +17243,15 @@ window.DATA = {
    "explanation": "Short loud periods dominate Leq.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Noise"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W09-013",
@@ -16275,14 +17274,15 @@ window.DATA = {
    "explanation": "Higher wind speed and larger dispersion coefficients reduce concentration.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Air dispersion"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W08-008",
@@ -16304,14 +17304,15 @@ window.DATA = {
    "explanation": "Convert g to kg.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Emission estimate"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W08-009",
@@ -16332,14 +17333,15 @@ window.DATA = {
    "explanation": "Fuel-based method.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Fuel emissions"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W06-001",
@@ -16360,14 +17362,15 @@ window.DATA = {
    "explanation": "Mode share is a basic sustainability indicator.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Mode share"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W07-004",
@@ -16389,14 +17392,15 @@ window.DATA = {
    "explanation": "Discounting reduces future benefits.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "CBA"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W07-005",
@@ -16419,14 +17423,15 @@ window.DATA = {
    "explanation": "Compare with the bus value of 25 g/pkm.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "LCA"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W08-010",
@@ -16448,14 +17453,15 @@ window.DATA = {
    "explanation": "Material not leaving the system is stored.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "MFA"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W07-006",
@@ -16478,14 +17484,15 @@ window.DATA = {
    "explanation": "Compare with option B (7.3).",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Decision analysis"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W03-002",
@@ -16506,14 +17513,15 @@ window.DATA = {
    "explanation": "1 mg/L = 1 g/m³.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Water load"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "N-W05-002",
@@ -16536,14 +17544,15 @@ window.DATA = {
    "explanation": "Footprint equals built-up area divided by floors.",
    "source": {
     "type": "generated",
-    "label": "Newly generated practice question",
+    "label": "Self-made practice (reviewed)",
     "year": null,
     "url": null,
-    "verification": "unofficial-generated: written for this app from lecture topics; not an official NPTEL question"
+    "verification": "self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question"
    },
    "related": [
     "Land use"
-   ]
+   ],
+   "years": []
   },
   {
    "id": "O21-A00-02",
@@ -16573,7 +17582,10 @@ window.DATA = {
    ],
    "unit": "%",
    "answer": 17.45,
-   "tolerance": 0.05
+   "tolerance": 0.05,
+   "years": [
+    2021
+   ]
   },
   {
    "id": "O21-A08-03",
@@ -16603,7 +17615,10 @@ window.DATA = {
    ],
    "unit": "g",
    "answer": 20,
-   "tolerance": 0.01
+   "tolerance": 0.01,
+   "years": [
+    2021
+   ]
   }
  ],
  "mocks": [
@@ -16611,46 +17626,46 @@ window.DATA = {
    "id": "M1",
    "title": "Mock Test 1: Fundamentals and conceptual understanding",
    "ids": [
-    "Q-W01-007",
-    "Q-W02-003",
-    "Q-W03-045",
-    "Q-W04-005",
-    "Q-W05-014",
-    "Q-W06-011",
-    "Q-W07-010",
-    "Q-W08-004",
-    "Q-W09-014",
-    "Q-W10-004",
-    "Q-W11-008",
-    "Q-W12-006",
-    "Q-W01-003",
-    "Q-W02-029",
+    "Q-W01-014",
+    "Q-W02-026",
     "Q-W03-029",
-    "Q-W04-010",
-    "Q-W05-002",
-    "Q-W06-010",
-    "Q-W07-002",
-    "Q-W08-003",
-    "Q-W09-004",
-    "Q-W10-012",
-    "Q-W11-011",
+    "Q-W04-008",
+    "Q-W05-018",
+    "Q-W06-007",
+    "Q-W07-003",
+    "Q-W08-017",
+    "Q-W09-002",
+    "Q-W10-015",
+    "Q-W11-006",
     "Q-W12-010",
-    "Q-W01-002",
-    "Q-W02-019",
+    "Q-W01-004",
+    "Q-W02-012",
     "Q-W03-001",
     "Q-W04-004",
-    "Q-W05-008",
+    "Q-W05-011",
     "Q-W06-013",
     "Q-W07-020",
-    "Q-W08-017",
-    "Q-W09-013",
-    "Q-W10-011",
-    "Q-W11-001",
+    "Q-W08-019",
+    "Q-W09-005",
+    "Q-W10-003",
+    "Q-W11-011",
     "Q-W12-004",
-    "Q-W01-001",
-    "Q-W02-016",
-    "Q-W03-037",
-    "Q-W04-002"
+    "Q-W01-010",
+    "Q-W02-032",
+    "Q-W03-038",
+    "Q-W04-007",
+    "Q-W05-012",
+    "Q-W06-011",
+    "Q-W07-017",
+    "Q-W08-004",
+    "Q-W09-003",
+    "Q-W10-010",
+    "Q-W11-010",
+    "Q-W12-001",
+    "Q-W01-007",
+    "Q-W02-011",
+    "Q-W03-034",
+    "Q-W04-003"
    ],
    "minutes": 45
   },
@@ -16658,38 +17673,38 @@ window.DATA = {
    "id": "M2",
    "title": "Mock Test 2: Mixed conceptual and numerical",
    "ids": [
-    "Q-W01-009",
-    "Q-W02-020",
-    "Q-W03-029",
+    "Q-W01-011",
+    "Q-W02-030",
+    "Q-W03-010",
     "Q-W04-003",
     "Q-W05-005",
     "Q-W06-006",
-    "Q-W07-006",
-    "Q-W08-002",
-    "Q-W09-011",
-    "Q-W10-006",
-    "Q-W11-007",
+    "Q-W07-025",
+    "Q-W08-009",
+    "Q-W09-009",
+    "Q-W10-010",
+    "Q-W11-013",
     "Q-W12-005",
-    "Q-W01-002",
-    "Q-W02-014",
-    "Q-W03-020",
+    "Q-W01-004",
+    "Q-W02-003",
+    "Q-W03-036",
     "Q-W04-005",
     "Q-W05-009",
     "Q-W06-003",
     "Q-W07-015",
-    "Q-W08-019",
-    "Q-W09-014",
-    "Q-W10-015",
-    "Q-W11-001",
+    "Q-W08-008",
+    "Q-W09-008",
+    "Q-W10-006",
+    "Q-W11-006",
     "Q-W12-008",
-    "Q-W01-007",
-    "Q-W02-026",
-    "Q-W03-011",
+    "Q-W01-009",
+    "Q-W02-028",
+    "Q-W03-039",
     "Q-W04-008",
     "Q-W05-011",
     "Q-W06-012",
-    "Q-W07-004",
-    "Q-W08-009",
+    "Q-W07-022",
+    "Q-W08-018",
     "N-W03-002",
     "N-W05-002",
     "N-W06-001",
@@ -16705,36 +17720,36 @@ window.DATA = {
    "id": "M3",
    "title": "Mock Test 3: Advanced revision and application",
    "ids": [
-    "Q-W01-008",
-    "Q-W02-019",
-    "Q-W03-015",
+    "Q-W01-010",
+    "Q-W02-017",
+    "Q-W03-014",
     "Q-W04-002",
     "Q-W05-016",
-    "Q-W06-008",
-    "Q-W07-011",
-    "Q-W08-003",
-    "Q-W09-013",
-    "Q-W10-001",
-    "Q-W11-007",
+    "Q-W06-016",
+    "Q-W07-016",
+    "Q-W08-010",
+    "Q-W09-002",
+    "Q-W10-012",
+    "Q-W11-001",
     "Q-W12-005",
-    "Q-W01-009",
-    "Q-W02-027",
-    "Q-W03-042",
+    "Q-W01-011",
+    "Q-W02-033",
+    "Q-W03-040",
     "Q-W04-009",
     "Q-W05-008",
-    "Q-W06-013",
-    "Q-W07-003",
-    "Q-W08-010",
-    "Q-W09-007",
-    "Q-W10-008",
-    "Q-W11-012",
+    "Q-W06-005",
+    "Q-W07-008",
+    "Q-W08-009",
+    "Q-W09-006",
+    "Q-W10-013",
+    "Q-W11-007",
     "Q-W12-011",
-    "Q-W01-002",
-    "Q-W02-026",
-    "Q-W03-043",
+    "Q-W01-004",
+    "Q-W02-025",
+    "Q-W03-041",
     "Q-W04-005",
     "Q-W05-011",
-    "Q-W06-006",
+    "Q-W06-013",
     "N-W03-002",
     "N-W05-002",
     "N-W07-005",

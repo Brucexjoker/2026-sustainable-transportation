@@ -11,8 +11,8 @@ Lecture titles come from the portal sidebar; the lecture *content* itself was no
 Graph question (Week 1 Q10) is included without the graph.
 Not included: the 23-question live-session practice deck; final-exam PYQs (none available); 2022-2025 assignments (not supplied).
 
-## Generated practice questions (category D) - 280
-Newly written for this app, never labelled official (no year/URL). Not reviewed by a second person.
+## Self-made practice questions - 280 (separate category: "Self-made practice (reviewed)")
+Written for this app, never labelled official. Second review pass (all 280 questions read again with their options, answers and explanations): no wrong answer keys found; 4 questions were filed under the wrong week and moved; numerical problems are additionally recomputed by code (28 independent checks). Still not reviewed by a second *person*, and factual claims (e.g. India-specific policy numbers) come from the course keys and general knowledge, not the lecture videos.
 
 ## Tests actually run
 `python3 tests/check_data.py` PASS: 12 weeks complete, unique IDs and question texts, valid answer indices, no duplicate options, official questions carry year 2021 + "transcribed" label, generated ones carry no official metadata, 125 official, mocks reference valid IDs, 28 numerical answers recomputed independently.

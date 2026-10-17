@@ -16,9 +16,10 @@ from weeks_real import WEEKS
 weeks = WEEKS
 TOPIC_ABBR = [("EIA","Environmental Impact Assessment"),("EMP","Environmental Management Plan"),("FAR/FSI","Floor Area Ratio / Floor Space Index"),("NUTP","National Urban Transport Policy"),("TDM","Transport Demand Management"),("BRT","Bus Rapid Transit"),("BRTS","Bus Rapid Transit System"),("NMT","Non-Motorised Transport"),("NAAQS","National Ambient Air Quality Standards"),("PM","Particulate Matter"),("BOD","Biochemical Oxygen Demand"),("COD","Chemical Oxygen Demand"),("DO","Dissolved Oxygen"),("Leq","Equivalent continuous sound level"),("BAU","Business-As-Usual"),("DSS","Decision Support System"),("MCDA","Multi-Criteria Decision Analysis"),("AHP","Analytic Hierarchy Process"),("GIS","Geographic Information System"),("BCR","Benefit-Cost Ratio"),("NPV","Net Present Value"),("PUC","Pollution Under Control"),("R&R","Resettlement & Rehabilitation"),("LCA","Life Cycle Assessment"),("LCI","Life Cycle Inventory"),("LCIA","Life Cycle Impact Assessment"),("GWP","Global Warming Potential"),("MFA","Material Flow Analysis"),("STAN","subSTance flow ANalysis (software)"),("CNG","Compressed Natural Gas"),("EV","Electric Vehicle"),("pkm","passenger-kilometre")]
 
-SRC = dict(type="generated", label="Newly generated practice question", year=None, url=None, verification="unofficial-generated: written for this app from lecture topics; not an official NPTEL question")
+SRC = dict(type="generated", label="Self-made practice (reviewed)", year=None, url=None, verification="self-made-reviewed: written for this app from lecture topics; answers and explanations re-checked in a second full review pass; NOT an official NPTEL question")
 
 
+WEEK_FIX = {"Travel demand is called a derived demand": 1, "Which are modes of transport?": 1, "Which is an external cost of road transport?": 2, "Select Avoid": 10}
 def remap(wk, topic):
     """Old (syllabus-PDF) week -> real lecture week."""
     if wk >= 100: return wk - 100
@@ -42,6 +43,8 @@ questions = []
 cnt = {}
 for (wk, topic, typ, diff, text, opts, ans, expl) in Q:
     wk = remap(wk, topic)
+    for _k, _v in WEEK_FIX.items():
+        if text.startswith(_k): wk = _v
     cnt[wk] = cnt.get(wk, 0) + 1
     qid = "Q-W%02d-%03d" % (wk, cnt[wk])
     o = dict(id=qid, week=wk, topic=topic, format=typ, difficulty=diff, text=text, explanation=expl, source=SRC, related=[topic])
@@ -83,33 +86,45 @@ for (an, qn, typ, text, opts, ans, expl) in O:
         questions.append(base)
 
 
-# ---- Official 2026 assignments: correct options were highlighted yellow in the PDFs supplied by the user
-import difflib
-from official2026 import P as P26
+# ---- Official weekly assignments for later years (tuple format: see content/official2026.py).
+# 2026 is built in; to add 2022-2025 create content/official2022.py ... official2025.py defining P in the same format.
+import difflib, importlib
 def _norm(t): return "".join(ch for ch in t.lower() if ch.isalnum())
-OSRC26 = dict(type="assignment", label="Official NPTEL assignment (2026)", year=2026, url="https://nptel.ac.in/courses/105107210",
-  document="NPTEL Sustainable Transportation Systems - Assignment Weeks 1-12, 2026 session (PDFs supplied by the user; correct option highlighted yellow)",
-  verification="transcribed-from-official-2026-assignment-pdf: correct answer = option highlighted yellow in the PDF; explanation written by the assistant")
-off21 = [q for q in questions if q["source"]["type"] == "assignment"]
-merged = added = 0
-for (w, n, text, opts, ans, basis, expl) in P26:
-    idx = "abcde".index(ans)
-    corr = _norm(opts[idx])
-    hit = None
-    for q in off21:
-        if difflib.SequenceMatcher(None, _norm(q["text"]), _norm(text)).ratio() >= 0.98 and set(map(_norm, q["options"])) == set(map(_norm, opts)):
-            hit = q; break
-    if hit:
-        if _norm(hit["options"][hit["answer"][0]]) != corr:
-            print("WARNING: 2021 and 2026 keys differ for", hit["id"], "/ W%d Q%d" % (w, n)); hit = None
-        else:
-            hit["source"] = dict(hit["source"], label="Official NPTEL assignment (2021 & 2026)", also_year=2026)
-            hit["also_2026"] = "W%d Q%d" % (w, n); merged += 1; continue
-    oid = "O26-W%02d-%02d" % (w, n)
-    questions.append(dict(id=oid, week=w, topic="Official Assignment Week %d (2026)" % w, difficulty="official", text=text, explanation=expl,
-        source=OSRC26, related=["Assignment %d (2026)" % w], assignment=w, format="tf" if opts == ["True", "False"] else "mcq", options=opts, answer=[idx]))
-    added += 1
-print("2026 official: merged into 2021 duplicates =", merged, ", added new =", added)
+def add_year(year, P, how):
+    OS = dict(type="assignment", label="Official NPTEL assignment (%d)" % year, year=year, url="https://nptel.ac.in/courses/105107210",
+      document="NPTEL Sustainable Transportation Systems - weekly assignments %d (%s)" % (year, how),
+      verification="transcribed-from-official-%d-assignment-source: %s; explanation written by the assistant" % (year, how))
+    pool = [q for q in questions if q["source"]["type"] == "assignment" and q["source"]["year"] != year]
+    merged = added = 0
+    for (w, n, text, opts, ans, basis, expl) in P:
+        idx = "abcde".index(ans); corr = _norm(opts[idx]); hit = None
+        for q in pool:
+            if difflib.SequenceMatcher(None, _norm(q["text"]), _norm(text)).ratio() >= 0.98 and set(map(_norm, q["options"])) == set(map(_norm, opts)):
+                hit = q; break
+        if hit:
+            if _norm(hit["options"][hit["answer"][0]]) != corr:
+                print("WARNING: keys differ for", hit["id"], "/ %d W%d Q%d" % (year, w, n)); hit = None
+            else:
+                prev = hit["source"].get("also_years", [])
+                hit["source"] = dict(hit["source"], also_years=prev + [year], also_year=year)
+                hit["source"]["label"] = "Official NPTEL assignment (" + " & ".join(str(y) for y in sorted([hit["source"]["year"]] + hit["source"]["also_years"])) + ")"
+                merged += 1; continue
+        questions.append(dict(id="O%02d-W%02d-%02d" % (year % 100, w, n), week=w, topic="Official Assignment Week %d (%d)" % (w, year), difficulty="official", text=text, explanation=expl,
+            source=OS, related=["Assignment %d (%d)" % (w, year)], assignment=w, format="tf" if opts == ["True", "False"] else "mcq", options=opts, answer=[idx]))
+        added += 1
+    print("official %d: merged into earlier years = %d, added new = %d" % (year, merged, added))
+from official2026 import P as P26
+add_year(2026, P26, "PDFs supplied by the user; correct option highlighted yellow")
+for _y in (2022, 2023, 2024, 2025):
+    try: _m = importlib.import_module("official%d" % _y)
+    except ModuleNotFoundError: continue
+    add_year(_y, _m.P, getattr(_m, "HOW", "supplied by the user"))
+
+for _q in questions + numericals:
+    if _q["source"]["type"] == "assignment":
+        _q["years"] = sorted({_q["source"]["year"]} | set(_q["source"].get("also_years", [])))
+    else:
+        _q["years"] = []
 
 # Mocks (deterministic, round-robin over weeks)
 rnd = random.Random(105107210)

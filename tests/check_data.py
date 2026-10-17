@@ -29,7 +29,7 @@ for q in D["questions"]:
 for q in allq:
     st = q["source"]["type"]
     if st == "generated": check(q["source"]["year"] is None and q["source"]["url"] is None and not q["id"].startswith("O21"), q["id"] + " generated must not carry official metadata")
-    elif st == "assignment": check(((q["source"]["year"] == 2021 and q["id"].startswith("O21-")) or (q["source"]["year"] == 2026 and q["id"].startswith("O26-"))) and "transcribed" in q["source"]["verification"], q["id"] + " bad official metadata")
+    elif st == "assignment": check(q["id"].startswith("O%02d-" % (q["source"]["year"] % 100)) and "transcribed" in q["source"]["verification"] and q.get("years"), q["id"] + " bad official metadata")
     else: fails.append(q["id"] + " unknown source type")
 # numerical recomputation (independent of the build lambdas)
 exp = {"N-W06-001": 10*math.log10(2e7), "N-W06-003": 80-20*math.log10(4), "N-W06-007": 2/(math.pi*4*30*15)*1e6 if False else None}
