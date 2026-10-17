@@ -1,0 +1,5 @@
+# NPTEL source material supplied by the user (copyrighted / personal); keep local only
+assignments/
+question banks/
+__pycache__/
+*.pyc
