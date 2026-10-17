@@ -1,4 +1,4 @@
-"""Builds app/data/data.js from the content modules. Run: python3 content/build.py"""
+"""Builds docs/data/data.js from the content modules. Run: python3 content/build.py"""
 import json, os, sys, random
 sys.path.insert(0, os.path.dirname(__file__))
 from weeks_a import W as WA
@@ -11,7 +11,7 @@ from questions3 import Q3
 Q = Q + Q2 + [(t[0] + 100,) + t[1:] for t in Q3]
 N = N + N2
 
-OUT = os.path.join(os.path.dirname(__file__), "..", "app", "data", "data.js")
+OUT = os.path.join(os.path.dirname(__file__), "..", "docs", "data", "data.js")
 from weeks_real import WEEKS
 weeks = WEEKS
 TOPIC_ABBR = [("EIA","Environmental Impact Assessment"),("EMP","Environmental Management Plan"),("FAR/FSI","Floor Area Ratio / Floor Space Index"),("NUTP","National Urban Transport Policy"),("TDM","Transport Demand Management"),("BRT","Bus Rapid Transit"),("BRTS","Bus Rapid Transit System"),("NMT","Non-Motorised Transport"),("NAAQS","National Ambient Air Quality Standards"),("PM","Particulate Matter"),("BOD","Biochemical Oxygen Demand"),("COD","Chemical Oxygen Demand"),("DO","Dissolved Oxygen"),("Leq","Equivalent continuous sound level"),("BAU","Business-As-Usual"),("DSS","Decision Support System"),("MCDA","Multi-Criteria Decision Analysis"),("AHP","Analytic Hierarchy Process"),("GIS","Geographic Information System"),("BCR","Benefit-Cost Ratio"),("NPV","Net Present Value"),("PUC","Pollution Under Control"),("R&R","Resettlement & Rehabilitation"),("LCA","Life Cycle Assessment"),("LCI","Life Cycle Inventory"),("LCIA","Life Cycle Impact Assessment"),("GWP","Global Warming Potential"),("MFA","Material Flow Analysis"),("STAN","subSTance flow ANalysis (software)"),("CNG","Compressed Natural Gas"),("EV","Electric Vehicle"),("pkm","passenger-kilometre")]

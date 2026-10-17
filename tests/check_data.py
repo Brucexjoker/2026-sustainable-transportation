@@ -1,6 +1,6 @@
 """Data consistency tests. Run: python3 tests/check_data.py"""
 import json, os, re, sys, math
-p = os.path.join(os.path.dirname(__file__), "..", "app", "data", "data.js")
+p = os.path.join(os.path.dirname(__file__), "..", "docs", "data", "data.js")
 raw = open(p, encoding="utf-8").read()
 D = json.loads(raw[len("window.DATA = "):].rstrip().rstrip(";"))
 fails = []
